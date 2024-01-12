@@ -29,7 +29,7 @@ Custom,Aangepast
 Remove,Verwijder
 "Messages Inbox",Berichteninbox
 "You have %1 new system messages","Je hebt %1 nieuwe systeemberichten"
-"You have %1 new system message","Je hebt %1 nieje systeembericht"
+"You have %1 new system message","Je hebt %1 nieuw systeembericht"
 "Incoming Message","Inkomend bericht"
 close,Sluiten
 Notifications,Meldingen
@@ -293,9 +293,9 @@ Other,Andere
 "The data is invalid. Use a valid cipher method and try again.","De gegevens zijn ongeldig. Gebruik een geldige cipher methode en probeer het opnieuw."
 "Enter the encryption key and try again.","Voer de encryptiesleutel in en probeer het opnieuw."
 "The ""%1"" source doesn't exist.","De bron ""%1"" bestaat niet."
-"Retry Synchronization","Opnieje synchroniseren"
+"Retry Synchronization","Opnieuw synchroniseren"
 Done,Gereed
-Retry,"Opnieje proberen"
+Retry,"Opnieuw proberen"
 "'Action Details - #' .","'Actie Details - #'."
 "%1 item(s) have been scheduled for update.""","%1 object(en) zijn gepland voor update."""
 "Bulk Actions Log","Bulk acties Log"
@@ -325,8 +325,8 @@ Report,Rapportages
 "Description of Operation","Beschrijving van werking"
 Summary,Samenvatting
 "Start Time","Begin Tijd"
-"Items to Retry","Items om opnieje te proberen"
-"To retry, select the items and click “Retry”.","Om de items nogmaals proberen te verwerken. Selecteer de items en klik op ""Opnieje proberen""."
+"Items to Retry","Items om opnieuw te proberen"
+"To retry, select the items and click “Retry”.","Om de items nogmaals proberen te verwerken. Selecteer de items en klik op ""Opnieuw proberen""."
 "Items That Can’t Be Updated.","Producten die niet kunnen worden bijgewerkt."
 Status,status
 "Meta Information","Meta informatie"
@@ -340,7 +340,7 @@ Error,Foutmelding
 "Order saving error: %1","Fout tijdens opslaan van order: %1"
 "Please choose a payment method.","Kies een betaalwijze."
 "We can't process your order right now. Please try again later.","We kunnen je bestelling nu niet verwerken. Probeer het later nog eens."
-"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieje te plaatsen."
+"An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen."
 "Credit Card: xxxx-%1","Creditcard: xxxx-%1"
 "amount %1","bedrag %1"
 failed.,mislukt.
@@ -466,7 +466,7 @@ Shipping,Aflevering
 "Last Name",Achternaam
 Email,E-mail
 "User Email","E-mail van gebruiker"
-"New Password","Nieje wachtwoord"
+"New Password","Nieuw wachtwoord"
 "Password Confirmation","Wachtwoord bevestiging"
 "Interface Locale",Interfacetaal
 "Current User Identity Verification","Huidige gebruiker verificatie"
@@ -479,9 +479,9 @@ Clear,Legen
 "Search Index",Zoekindex
 Rebuild,Herindexeren
 "Inventory Stock Status",Voorraad-status
-"Rebuild Catalog Index","Catalogus index opnieje opbouwen"
-"Rebuild Flat Catalog Category","Platte categorie catalogus opnieje opbouwen"
-"Rebuild Flat Catalog Product","Platte product catalogus opnieje opbouwen"
+"Rebuild Catalog Index","Catalogus index opnieuw opbouwen"
+"Rebuild Flat Catalog Category","Platte categorie catalogus opnieuw opbouwen"
+"Rebuild Flat Catalog Product","Platte product catalogus opnieuw opbouwen"
 "Cache Control","Beheer cache"
 "All Cache","Gehele cache"
 "No change","Geen wijziging"
@@ -515,7 +515,7 @@ General,Algemeen
 "Edit Store","Winkel bewerken"
 "New Store","Nieuwe winkel"
 "Edit Store View","Winkelaanzicht bewerken"
-"New Store View","Nieje winkelaanzicht"
+"New Store View","Nieuw winkelaanzicht"
 "Store Information",Winkelinformatie
 "Web Site",Website
 Name,Naam
@@ -607,7 +607,7 @@ System,Systeem
 "The store does not exist","De winkel bestaat niet"
 "Store view doesn't exist","Winkelzicht bestaat niet"
 "Before modifying the store view code please make sure it is not used in index.php.","Controleer voordat je de winkelaanzichtcode aanpast of deze niet gebruikt wordt in index.php."
-"New ","Nieje "
+"New ","Nieuw "
 "All Stores","Alle winkels"
 "You saved the website.","Je hebt de website opgeslagen."
 "The default store cannot be disabled","De standaard winkel kan niet worden uitgeschakeld"
@@ -623,7 +623,7 @@ Order,Bestelling
 "Order #%1","Bestelling #%1"
 "Sorry, you need permissions to view this content.","Helaas, je bent niet gemachtigd om deze inhoud weer te geven."
 "Next steps","De volgende stappen"
-"If you think this is an error, try signing out and signing in again.","Als je denkt dat dit niet klopt, probeert je zich dan af te melden en opnieje aan te melden."
+"If you think this is an error, try signing out and signing in again.","Als je denkt dat dit niet klopt, probeert je zich dan af te melden en opnieuw aan te melden."
 "Contact a system administrator or store owner to gain permissions.","Benader een systeembeheerder of winkeleigenaar om te worden gemachtigd."
 "Return to ","Keer terug naar "
 "previous page","vorige pagina"
@@ -642,7 +642,7 @@ password,wachtwoord
 "There are no search keywords.","Er zijn geen zoekwoorden gevonden."
 "View Statistics For:","Bekijk statistieken voor:"
 "All Websites","Alle Websites"
-"Reload Data","Gegevens opnieje laden"
+"Reload Data","Gegevens opnieuw laden"
 "Browse Files...","Blader door bestanden..."
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Alle rechten voorbehouden."
 "Magento Admin Panel","Magento Beheer Paneel"
@@ -789,7 +789,7 @@ Admin,Beheerder
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Let erop dat de URL eindigt met een '/' (slash). Het aanpassen van dit is niet zonder risico's."
 "Use Custom Admin Path","Gebruik aangepast admin-pad (URI)"
 "Custom Admin Path","Custom Admin-pad"
-"You will have to sign in after you save your custom admin path.","U moet opnieje moeten inloggen als je het custom admin-pad aanpast."
+"You will have to sign in after you save your custom admin path.","U moet opnieuw moeten inloggen als je het custom admin-pad aanpast."
 Security,Beveiliging
 "Recovery Link Expiration Period (hours)","Herstel Link verloopperiode (uur)"
 "Please enter a number 1 or greater in this field.","Vul een nummer van 1 of groter in in dit veld."
@@ -984,7 +984,7 @@ Position,Positie
 "Add Dynamic Block","Dynamisch blok toevoegen"
 "Save Dynamic Block","Dynamisch blok opslaan"
 "Delete Dynamic Block","Dynamisch blok verwijderen"
-"New Dynamic Block","Nieje dynamisch blok"
+"New Dynamic Block","Nieuw dynamisch blok"
 "Dynamic Block Default Content for All Store Views","Dynamisch blok standaard inhoud voor alle winkelaanzichten"
 "Dynamic Block Properties","Eigenschappen van dit dynamische blok"
 "Dynamic Block Name","Dynamische blok naam"
@@ -1054,7 +1054,7 @@ expires,verloopt
 "This payment is not available","Deze betaalwijze is niet beschikbaar"
 MM,mm
 YY,jj
-"Please try again with another form of payment.","Probeer het opnieje met een andere vorm van betaling."
+"Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling."
 "Sorry, but something went wrong.","Er ging iets mis."
 "Payment ","Betaling "
 "Credit card type is not accepted by this merchant account.","Type creditcard wordt niet geaccepteerd door deze verkopersrekening."
@@ -1071,7 +1071,7 @@ YY,jj
 "Cannot provide a billing address unless also providing a credit card.","Er kan geen factuuradres worden opgegeven tenzij er ook een creditcard wordt opgegeven."
 "Cannot refund a transaction with a suspended merchant account.","Kan een transactie met een geblokkeerd verkopersaccount niet terugbetalen."
 "Merchant account does not support refunds.","Merchant account ondersteund geen refunds."
-"Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Kan een transactie transactie niet terugbetalen in de afwikkelingsstatus van dit verkopersaccount. Probeer het opnieje nadat de transactie is voltooid."
+"Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Kan een transactie transactie niet terugbetalen in de afwikkelingsstatus van dit verkopersaccount. Probeer het opnieuw nadat de transactie is voltooid."
 "PayPal is not enabled for your merchant account.","PayPal is niet ingeschakeld voor je handelaarsaccount."
 "Partial settlements are not supported by this processor.","Gedeeltelijke betalingen worden niet ondersteund door deze verwerker."
 "Cannot submit for partial settlement.","Kan gedeeltelijke schikking niet indienen."
@@ -1177,7 +1177,7 @@ Year,Jaar
 "Incorrect payment method.","Onjuiste betaalmethode."
 "We can't initialize checkout review.","Checkout beoordeling kan niet gestart worden."
 "We can't update shipping method.","We kunnen de verzendwijze niet bijwerken."
-"The processor declined your transaction, please re-enter your payment information","De verwerker weigerde je transactie. Gelieve je betaalinformatie opnieje invoeren"
+"The processor declined your transaction, please re-enter your payment information","De verwerker weigerde je transactie. Gelieve je betaalinformatie opnieuw invoeren"
 "Transaction declined by gateway: Check card details or try another card","Transactie geweigerd door het portaal: controleer je kaartgegevens of probeer een andere creditcard"
 "Transaction declined: ","Transactie geweigerd: "
 "The processor responded with an unknown error","De verwerker reageerde met een onbekende fout"
@@ -1253,7 +1253,7 @@ Submit,Bevestig
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","De waarde in het URL/web adresveld van een klantverklaring. De URL moet 13 tekens of korter zijn."
 "The Payment Token is not available to perform the request.","De betalingstoken is niet beschikbaar om het verzoek uit te voeren."
 "Checkout failed to initialize. Verify and try again.","Checkout kan niet worden geïnitialiseerd. Controleer en probeer het opnieuw."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden, probeer dan opnieje je bestelling te plaatsen."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden, probeer dan opnieuw je bestelling te plaatsen."
 "Paypal account",PayPal-account
 "Europe bank account","Europese bankrekening"
 "Credit card",Creditcard
@@ -1363,7 +1363,7 @@ Always,Altijd
 "Provided form does not exist","Verstrekte formulier bestaat niet"
 "Incorrect CAPTCHA","Onjuiste CAPTCHA"
 "Incorrect CAPTCHA.","CAPTCHA fout."
-"The account is locked. Please wait and try again or contact %1.","Dit account is vergrendeld. Probeer het op een ander moment opnieje of neem contact op met %1."
+"The account is locked. Please wait and try again or contact %1.","Dit account is vergrendeld. Probeer het op een ander moment opnieuw of neem contact op met %1."
 "Please enter the letters and numbers from the image","Voer de letters en cijfers in van de afbeelding"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Let op</strong>: Captcha is hoofdletter gevoelig."
 "Reload captcha","CAPTCHA herladen"
@@ -1394,14 +1394,14 @@ Day,Dag
 "WYSIWYG Editor","WYSIWYG editor"
 "Add Product","Product toevoegen"
 "Product Attributes",Productkenmerken
-"Add New Attribute","Voeg nieje attribuut toe"
+"Add New Attribute","Voeg nieuw attribuut toe"
 "Save Attribute","Attribuut Opslaan"
 "Save in New Attribute Set","Opslaan in nieuwe attribuutset"
 "Enter Name for New Attribute Set","Voer naam in voor nieuwe attribuutset"
 "Save and Continue Edit",Toepassen
 "Delete Attribute","Verwijder attribuut"
 "Edit Product Attribute ""%1""","Bewerk productattribuut ""%1"""
-"New Product Attribute","Nieje product-attribuut"
+"New Product Attribute","Nieuw product-attribuut"
 "Advanced Attribute Properties","Geavanceerde attribuut eigenschappen"
 "Attribute Code",Attribuutcode
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Dit wordt intern gebruikt. Zorg ervoor dat je geen spaties of meer dan %1 symbolen gebruikt."
@@ -1458,7 +1458,7 @@ Empty,Leeg
 "Add Attribute Set","Attribuutset toevoegen"
 "Attribute Sets",Attribuut-sets
 "Close Window","sluit venster"
-"New Product","Nieje product"
+"New Product","Nieuw product"
 "Save & Edit","Opslaan en bewerken"
 "Save & New","Opslaan & Nieuw"
 "Save & Duplicate","Opslaan & Dupliceren"
@@ -1476,7 +1476,7 @@ Change,Verander
 "Subscribe Date",Inschrijvingsdatum
 "Last Notified","Laatste melding"
 "Send Count","Telling versturen"
-"New Attribute","Nieje attribuut"
+"New Attribute","Nieuw attribuut"
 "Attribute Set",Attributenset
 "Add New Option","Optie toevoegen"
 "Import Options","Import opties"
@@ -1716,7 +1716,7 @@ message,bericht
 "Alert price","Prijs melding"
 "Alert Price","Prijs melding"
 "Select Attribute","Selecteer Attribuut"
-"Create New Attribute","Nieje attribuut aanmaken"
+"Create New Attribute","Nieuw attribuut aanmaken"
 "Customizable Options","Aanpasbare opties"
 "Custom options let customers choose the product variations they want.","Aangepaste opties laat klanten de productvariaties die ze willen kiezen."
 "Select Product","Selecteer Product"
@@ -1729,7 +1729,7 @@ message,bericht
 "Please leave blank if it is not an image.","Leeg laten indien dit geen afbeelding is."
 "This item has weight","Dit product heeft een gewicht"
 "This item has no weight","Dit product heeft geen gewicht"
-"Set Product as New From","Stel het product in als nieje vanaf"
+"Set Product as New From","Stel het product in als nieuw vanaf"
 "Related Products, Up-Sells, and Cross-Sells","Verwante producten, up-sells en cross-sells"
 "Related products are shown to customers in addition to the item the customer is looking at.","Verwante producten worden getoond aan bezoekers als toevoeging aan het product dat de bezoeker bekijkt."
 "Add Related Products","Verwante producten toevoegen"
@@ -2180,7 +2180,7 @@ End,Einde
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Waarde voor het 'type' subattribuut in het 'custom_options' attribuut bevat een onjuiste waarde, geaccepteerde waarden zijn: %1"
 "Minimum Qty","Minimum aantal"
 "Add Minimum Qty","Voeg minimum aantal toe"
-"Could not rebuild index for empty products array","Kan index voor lege producten niet opnieje opbouwen"
+"Could not rebuild index for empty products array","Kan index voor lege producten niet opnieuw opbouwen"
 "This product is out of stock.","Dit product is niet op voorraad."
 "Some of the products are out of stock.","Sommige van de producten zijn niet op voorraad."
 "The stock item for Product in option is not valid.","De voorraadstatus is ongeldig."
@@ -2341,7 +2341,7 @@ Preview,Voorbeeld
 "Sort Products By","Sorteer producten op"
 "Default Product Sorting","Standaard product sortering"
 "Use Parent Category Settings","Bovenliggende categorie instellingen gebruiken"
-"New Theme","Nieje thema"
+"New Theme","Nieuw thema"
 "The category will be removed from the update and all scheduled changes will be lost.","De categorie zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan."
 "Remove Product from Update","Verwijder product van update"
 "The product will be removed from the update and all scheduled changes will be lost.","Het product zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan."
@@ -2389,7 +2389,7 @@ Checkout,Afrekenen
 "The product does not exist.","Het artikel bestaat niet"
 "We don't have some of the products you want.","We hebben niet alle producten die je wenst."
 "We don't have as many of some products as you want.","We hebben het gevraagde aantal producten niet op voorraad."
-"Quantity was recalculated from %1 to %2","Aantal is opnieje berekend van %1 tot %2"
+"Quantity was recalculated from %1 to %2","Aantal is opnieuw berekend van %1 tot %2"
 "We adjusted product quantities to fit the required increments.","We hebben de producthoeveelheden aangepast om aan de vereiste hoeveelheden te voldoen."
 "This quote item does not exist.","Dit quote item bestaat niet."
 "Display number of items in cart","Aantal producten in winkelmand tonen"
@@ -2465,7 +2465,7 @@ edit,bewerken
 "Provided Zip/Postal Code seems to be invalid.","Opgegeven postcode lijkt ongeldig."
 " Example: "," Voorbeeld: "
 "If you believe it is the right one you can ignore this notice.","Als je denkt dat het de juiste is, kunt je deze mededeling negeren."
-"New Address","Nieje Adres"
+"New Address","Nieuw Adres"
 "Are you sure you would like to remove this item from the shopping cart?","Weet je zeker dat je dit product wilt verwijderen uit de winkelmand?"
 "Review & Payments","Overzicht & betalen"
 "Select a new payment method","Selecteer een nieuwe betaalmethode"
@@ -2507,7 +2507,7 @@ Payment,Betaling
 "Something went wrong while saving the page. Please refresh the page and try again.","Er ging iets mis tijdens het opslaan van de pagina. Ververs de pagina en probeer het opnieuw."
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Je hebt %1 toegevoegd aan je <a href=""%2"">winkelmand</a>."
 "Please select at least one product to add to cart","Selecteer tenminste één product om toe te voegen aan winkelmand"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden en probeer daarna je bestelling opnieje te plaatsen."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden en probeer daarna je bestelling opnieuw te plaatsen."
 "The product wasn't found. Verify the product and try again.","Het product is niet gevonden. Controleer het product en probeer het opnieuw."
 "The shipping address is missing. Set the address and try again.","Het verzendadres ontbreekt. Stel het adres in en probeer het opnieuw."
 "The shipping information was unable to be saved. Verify the input data and try again.","De verzendinformatie kon niet worden opgeslagen. Controleer de ingevoerde gegevens en probeer het nogmaals."
@@ -2549,7 +2549,7 @@ Manually,Handmatig
 "A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","Een checkout overeenkomst met de ""%1"" opgegeven ID is niet gevonden. Controleer het ID en probeer het opnieuw."
 "Preview Quote Lifetime (minutes)","Voorvertoning quota levensduur (minuten)"
 "Static Blocks","Statische blokken"
-"Add New Block","Nieje blok toevoegen"
+"Add New Block","Nieuw blok toevoegen"
 "Delete Block","Blok verwijderen"
 Identifier,Identificator
 "Manage Pages","Beheer pagina's"
@@ -2569,7 +2569,7 @@ Modified,Gewijzigd
 "We can't find a block to delete.","Blok om te verwijderen niet gevonden."
 "This block no longer exists.","Dit blok bestaat niet langer meer"
 "Edit Block","Blok bewerken"
-"New Block","Nieje blok"
+"New Block","Nieuw blok"
 Blocks,Blokken
 "You saved the block.","Het blok is opgeslagen."
 "Something went wrong while saving the block.","Er ging iets mis bij het opslaan van het blok."
@@ -2665,7 +2665,7 @@ Cancel,Annuleren
 "Delete Customer","Klant verwijderen"
 "Delete Company","Bedrijf verwijderen"
 Companies,Bedrijven
-"Add New Company","Nieje bedrijf toevoegen"
+"Add New Company","Nieuw bedrijf toevoegen"
 (me),(ik)
 "Company Name:",Bedrijfsnaam:
 "Company Legal Name:",Handelsnaam:
@@ -2688,10 +2688,10 @@ Suffix:,Achtervoegsel:
 Gender:,Geslacht:
 Duplicated,Gedupliceerd
 "Company Structure",Bedrijfsstructuur
-"New Company","Nieje bedrijf"
+"New Company","Nieuw bedrijf"
 "Thank you! We're reviewing your request and will contact you soon","Bedankt! We beoordelen je verzoek en nemen spoedig contact met je op"
 "An error occurred on the server. Your changes have not been saved.","Er is een fout opgetreden op de server. Je wijzigingen zijn niet opgeslagen."
-"Create New Company","Nieje bedrijf aanmaken"
+"Create New Company","Nieuw bedrijf aanmaken"
 "A total of %1 record(s) were updated.","In totaal zijn %1 record(s) bijgewerkt."
 "Something went wrong. Please try again later.","Er ging iets mis. Probeer het later opnieuw."
 "Invalid value of ""%value"" provided for the email field.","Ongeldige waarde voor ""%value"" opgegeven voor het e-mail veld."
@@ -2755,7 +2755,7 @@ Blocked,Geblokkeerd
 "Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""% value"" opgegeven voor het %fieldName veld."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is verplicht. Voer in en probeer het nogmaals."
 "No such entity with %fieldName = %fieldValue","Geen dergelijke entiteit met %fieldName = %fieldValue"
-"This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","Deze rol kan niet worden verwijderd omdat gebruikers eraan zijn toegewezen. Wijs de gebruikers opnieje toe aan een andere rol om door te gaan."
+"This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","Deze rol kan niet worden verwijderd omdat gebruikers eraan zijn toegewezen. Wijs de gebruikers opnieuw toe aan een andere rol om door te gaan."
 "You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.","Je kunt een rol niet verwijderen wanneer het de enige rol in het bedrijf is. U moet een andere rol maken voordat je deze rol verwijdert."
 "User role with this name already exists. Enter a different name to save this role.","De rol van de gebruiker met deze naam bestaat al. Voer een andere naam in om deze rol op te slaan."
 "Cannot delete role with id %1","De rol met id %1 kan niet worden verwijderd"
@@ -2767,7 +2767,7 @@ Blocked,Geblokkeerd
 "Could not save company: %1","Kon bedrijf niet opslaan: %1"
 "Cannot delete structure with id %1","De structuur met id %1 kan niet worden verwijderd"
 "Could not create team","Kan team niet maken"
-"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","Dit team heeft onderliggende gebruikers of teams die hierop zijn afgestemd en kan niet worden verwijderd. Pas eerst de onderliggende gebruikers of teams opnieje aan."
+"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","Dit team heeft onderliggende gebruikers of teams die hierop zijn afgestemd en kan niet worden verwijderd. Pas eerst de onderliggende gebruikers of teams opnieuw aan."
 "Could not update team","Kan team niet bijwerken"
 "Cannot delete team with id %1","Het team met id %1 kan niet worden verwijderd"
 "You cannot assign a different role to a company admin.","Je kunt een bedrijfsbeheerder geen andere rol toewijzen."
@@ -2800,7 +2800,7 @@ Company:,Bedrijf:
 "Phone Number",Telefoonnummer
 "Company Administrator",Bedrijfsbeheerder
 "Job Title",Functietitel
-"New Company Account","Nieje zakelijk account"
+"New Company Account","Nieuw zakelijk account"
 "If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","Als je een bedrijf vertegenwoordigt dan wilt je ons zakelijk account gedeelte gebruiken. Het creëren van een zakelijk account biedt alle bedrijfsleden toegang tot B2B-functies zoals offertes, bedrijfsgebruikersbeheer, snelle bestelling en meer."
 "Create a Company Account","Zakelijk account aanmaken"
 "Business Structure",Bedrijfsstructuur
@@ -2976,8 +2976,8 @@ Users,Gebruikers
 "Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Weet je zeker dat je deze bestelling wilt annuleren? Het orderbedrag wordt niet teruggezet naar %1 omdat het bedrijf niet actief is."
 "Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","Weet je zeker dat je deze bestelling wilt annuleren? Het orderbedrag wordt niet teruggezet naar %1 omdat het aan deze klant gekoppelde bedrijf niet bestaat."
 "History record no longer exists.","Geschiedenis-item bestaat niet meer."
-"Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Kan momenteel geen valutakoersen opvragen. Probeer het later opnieje of neem contact op met de winkelbeheerder."
-"Unable to convert company credit. Please try again later or contact store administrator.","Kan bedrijfskrediet niet converteren. Probeer het later opnieje of neem contact op met de winkelbeheerder."
+"Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Kan momenteel geen valutakoersen opvragen. Probeer het later opnieuw of neem contact op met de winkelbeheerder."
+"Unable to convert company credit. Please try again later or contact store administrator.","Kan bedrijfskrediet niet converteren. Probeer het later opnieuw of neem contact op met de winkelbeheerder."
 "Company Credit",Bedrijfskrediet
 "Order Payment should be provided","Betaling van bestelling moet worden opgegeven"
 "Order is canceled. We reverted %1 to the company credit.","Bestelling is geannuleerd. We hebben %1 teruggezet naar het bedrijfskrediet."
@@ -3204,7 +3204,7 @@ Configurations,Configuraties
 Confirm,Bevestigen
 "New Attribute Set Name","Naam nieuwe attributenset"
 "Select Associated Product","Selecteer bijbehorende product"
-"Choose a new product to delete and replace the current product configuration.","Kies een nieje product om te verwijderen en vervang de huidige productconfiguratie."
+"Choose a new product to delete and replace the current product configuration.","Kies een nieuw product om te verwijderen en vervang de huidige productconfiguratie."
 "For better results, add attributes and attribute values to your products.","Voor betere resultaten, voeg attributen en attribuut waarden to aan je producten."
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configureerbare producten geeft klanten de mogelijkheid om opties selecteren (Bv. T-shirt kleur). U moet een simpel-product aanmaken voor elke configuratie (Bv. een product voor elke kleur)."
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configuraties kunnen niet worden aangemaakt voor een product met downloadbare bestanden. Om configuraties te maken moet je eerst alle downloadbare bestanden verwijderen."
@@ -3359,7 +3359,7 @@ region,regio
 "Save Customer","Klant opslaan"
 "Reset Password","Wachtwoord herstellen"
 "Are you sure you want to revoke the customer's tokens?","Weet je zeker dat je de klant tokens wenst in te trekken?"
-"Force Sign-In","Forceer opnieje inloggen"
+"Force Sign-In","Forceer opnieuw inloggen"
 "New Customer","Nieuwe klant"
 "Shopping Cart from %1","Winkelmand van %1"
 Newsletter,Nieuwsbrief
@@ -3427,7 +3427,7 @@ Unlock,Deblokkeer
 "This email does not require confirmation.","Deze e-mail hoeft niet bevestigt te worden"
 "Wrong email.","Onjuist e-mailadres."
 "Your password reset link has expired.","Je wachtwoord-reset-link is verlopen"
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als je zeker weet dat het je e-mailadres is, <a href=""%1"">kunt je een nieje wachtwoord aanvragen</a>."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als je zeker weet dat het je e-mailadres is, <a href=""%1"">kunt je een nieuw wachtwoord aanvragen</a>."
 "We can't save the customer.","We kunnen de klant niet opslaan."
 "Please make sure your passwords match.","Zorg dat de wachtwoorden overeenkomen."
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Als je een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om je verzendadres in te voeren voor een juiste BTW-berekening."
@@ -3437,12 +3437,12 @@ Unlock,Deblokkeer
 "Password confirmation doesn't match entered password.","Wachtwoord-bevestiging komt niet overeen met ingegeven wachtwoord."
 "We're unable to send the password reset email.","We kunnen de wachtwoordherstel e-mail niet verzenden."
 "Please enter your email.","Voer je e-mailadres in."
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt je een e-mail met een link om je wachtwoord opnieje in te stellen."
-"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Deze account is niet bevestigd. <a href=""%1"">Klik hier</a> om de bevestigingsmail opnieje te verzenden."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Als er een account is gekoppeld aan %1, ontvangt je een e-mail met een link om je wachtwoord opnieuw in te stellen."
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Deze account is niet bevestigd. <a href=""%1"">Klik hier</a> om de bevestigingsmail opnieuw te verzenden."
 "An unspecified error occurred. Please contact us for assistance.","Een niet nader gekende fout deed zich voor. Neem contact met ons op voor hulp."
 "A login and a password are required.","Gebruikersnaam en wachtwoord zijn verplicht."
 "New Password and Confirm New Password values didn't match.","Het nieuwe wachtwoord en de bevestiging van het nieuwe wachtwoord komen niet overeen."
-"Please enter a new password.","Voer een nieje wachtwoord."
+"Please enter a new password.","Voer een nieuw wachtwoord."
 "You updated your password.","Je wachtwoord is bijgewerkt."
 "Something went wrong while saving the new password.","Er ging iets mis bij het opslaan van het nieuwe wachtwoord."
 "You deleted the address.","U hebt het adres verwijderd."
@@ -3464,8 +3464,8 @@ Unlock,Deblokkeer
 "You deleted the customer.","Klant verwijderd."
 "Something went wrong while editing the customer.","Er ging iets mis tijdens het bewerken van de klant."
 "Manage Customers","Klanten beheren"
-"The customer will receive an email with a link to reset password.","De klant ontvangt een e-mail met een link om het wachtwoord opnieje instellen."
-"Something went wrong while resetting customer password.","Er ging iets mis tijdens het opnieje instellen van het wachtwoord van de klant."
+"The customer will receive an email with a link to reset password.","De klant ontvangt een e-mail met een link om het wachtwoord opnieuw instellen."
+"Something went wrong while resetting customer password.","Er ging iets mis tijdens het opnieuw instellen van het wachtwoord van de klant."
 "You saved the customer.","Je hebt de klant opgeslagen."
 "Something went wrong while saving the customer.","Er ging iets mis bij het opslaan van de klant."
 "Customer has been unlocked successfully.","Klant is ontgrendeld."
@@ -3581,7 +3581,7 @@ Newsletters,Nieuwsbrieven
 "Current Password","Huidig wachtwoord"
 "Password Strength",Wachtwoordsterkte
 "No Password","Geen wachtwoord"
-"Confirm New Password","Bevestig nieje wachtwoord"
+"Confirm New Password","Bevestig nieuw wachtwoord"
 "Please enter your email address below to receive a password reset link.","Voer je e-mailadres hieronder in om een wachtwoord reset link te ontvangen."
 "Reset My Password","Wachtwoord resetten"
 "Registered Customers","Geregistreerde klanten"
@@ -3592,7 +3592,7 @@ Newsletters,Nieuwsbrieven
 "Address Information","Adres Gegevens"
 "Sign-in Information",Inloggegevens
 "Confirm Password","Bevestig wachtwoord"
-"Set a New Password","Een nieje wachtwoord instellen"
+"Set a New Password","Een nieuw wachtwoord instellen"
 "You have signed out and will go to our homepage in 5 seconds.","Je hebt je afgemeld en zal over 5 seconden naar de homepage doorgestuurd worden."
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Het aanmaken van een account heeft vele voordelen: sneller afhandelen, meer dan één adres registreren, volgen van bestellingen en meer."
 "Welcome to %store_name","Welkom bij %store_name"
@@ -3601,7 +3601,7 @@ Newsletters,Nieuwsbrieven
 Email:,E-mail:
 Password:,Wachtwoord:
 "Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account"
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Wachtwoord vergeten? Klik <a href=""%reset_url"">hier</a> om het opnieje in te stellen."
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Wachtwoord vergeten? Klik <a href=""%reset_url"">hier</a> om het opnieuw in te stellen."
 "Proceed through checkout faster","Sneller betalen"
 "Check the status of orders","Orderstatus controleren"
 "View past orders","Orderhistorie bekijken"
@@ -3618,7 +3618,7 @@ Password:,Wachtwoord:
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: e-mail, wachtwoord."
 "Reset your %store_name password","Je %store_name wachtwoord resetten"
 "There was recently a request to change the password for your account.","Er was onlangs een aanvraag om het wachtwoord van je account te wijzigen."
-"If you requested this change, set a new password here:","Indien je deze wijziging heeft aangevraagd, kan je hier een nieje wachtwoord instellen:"
+"If you requested this change, set a new password here:","Indien je deze wijziging heeft aangevraagd, kan je hier een nieuw wachtwoord instellen:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien je deze aanvraag niet heeft ingediend, kan je deze email negeren en je wachtwoord zal ongewijzigd blijven."
 "Your %store_name password has been changed","Je %store_name wachtwoord is veranderd"
 "We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: wachtwoord."
@@ -3746,9 +3746,9 @@ Addresses,Adressen
 "The account is already active.","Het account is al actief."
 "The confirmation token is invalid. Verify the token and try again.","De bevestigingstoken is ongeldig. Controleer het token en probeer het opnieuw."
 "This account isn't confirmed. Verify and try again.","Dit account is niet bevestigd. Controleer en probeer het opnieuw."
-"The password needs at least %1 characters. Create a new password and try again.","Het wachtwoord moet minstens %1 tekens bevatten. Maak een nieje wachtwoord aan en probeer het opnieuw."
+"The password needs at least %1 characters. Create a new password and try again.","Het wachtwoord moet minstens %1 tekens bevatten. Maak een nieuw wachtwoord aan en probeer het opnieuw."
 "The password can't begin or end with a space. Verify the password and try again.","Het wachtwoord kan niet beginnen of eindigen met een spatie. Controleer het wachtwoord en probeer het opnieuw."
-"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord kan niet hetzelfde zijn als het e-mailadres. Maak een nieje wachtwoord en probeer het opnieuw."
+"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord kan niet hetzelfde zijn als het e-mailadres. Maak een nieuw wachtwoord en probeer het opnieuw."
 "The store view is not in the associated website.","De winkelaanzicht is niet in de bijbehorende website."
 "A customer with the same email address already exists in an associated website.","Een klant met hetzelfde e-mailadres bestaat al in een verwante website."
 "The password token is mismatched. Reset and try again.","Het wachtwoord token komt niet overeen. Reset en probeer opnieuw."
@@ -3765,11 +3765,11 @@ Addresses,Adressen
 "There is no such address entity to delete.","Er is geen dergelijke adresentiteit om te verwijderen."
 "We can't mass delete the addresses right now.","We kunnen de adressen nu niet massaal verwijderen."
 "Customer address has been updated.","Klant adres is bijgewerkt."
-"New customer address has been added.","Nieje klantadres is toegevoegd."
+"New customer address has been added.","Nieuw klantadres is toegevoegd."
 "There is no customer with such id.","Er is geen klant met zo'n id."
 "We can't change customer address right now.","We kunnen het klantadres nu niet wijzigen."
 "Sorry, there has been an error processing your request. Please try again later.","Sorry, er is een fout opgetreden bij het verwerken van je verzoek. Probeer het later opnieuw."
-"Reset password","Wachtwoord opnieje instellen"
+"Reset password","Wachtwoord opnieuw instellen"
 "Invalidate tokens","Tokens intrekken"
 "Update Address","Adres bijwerken"
 "Name Prefix",Voorvoegsel
@@ -3853,7 +3853,7 @@ available,Beschikbaar
 "Edit Customer Attribute ""%1""","Bewerken van klantkenmerk ""%1"""
 "New Customer Attribute","Nieuwe klant attribuut"
 "Manage Form Types","Beheer formuliertypes"
-"New Form Type","Nieje forumuliertype"
+"New Form Type","Nieuw forumuliertype"
 "Edit Form Type ""%1""","Bewerk formuliertype ""%1"""
 "Form Label","formulier label"
 "All Themes","Alle Thema's"
@@ -3935,7 +3935,7 @@ Segments,Segmenten
 "Add Segment","Voeg segment toe"
 "Refresh Segment Data","Verversen Segment Data"
 "Edit Segment '%1'","Segment '%1' bewerken"
-"New Segment","Nieje Segment"
+"New Segment","Nieuw Segment"
 "Segment Information","Segment Informatie"
 "* applicable to visitors and registered customers","* van toepassing op bezoekers en geregistreerde klanten"
 "General Properties","Algemene Kenmerken"
@@ -4242,7 +4242,7 @@ download,downloaden
 "Default Maximum Number of Downloads","Standaard-maximum voor aantal downloads"
 "Default Sample Title","Standaard-titel van demo"
 "Default Link Title",Standaard-linktitel
-"Open Links in New Window","Links openen in nieje venster"
+"Open Links in New Window","Links openen in nieuw venster"
 "Use Content-Disposition","Gebruik Content-Disposition"
 "Disable Guest Checkout if Cart Contains Downloadable Items","Niet-ingelogd afrekenen uitschakelen als het winkelmand download-producten bevat."
 "Guest checkout will only work with shareable.","Afrekenen als gast werk alleen met deelbare producten"
@@ -4304,7 +4304,7 @@ hello,hallo
 "Elasticsearch HTTP Password","Elasticsearch HTTP wachtwoord"
 "Elasticsearch Server Timeout","Elasticsearch Server Time-out"
 "Test Connection","Test Verbinding"
-"Add New Template","Nieje sjabloon toevoegen"
+"Add New Template","Nieuw sjabloon toevoegen"
 "Transactional Emails","Transactionele e-mails"
 "Delete Template","Sjabloon verwijderen"
 "Convert to Plain Text","Omzetten naar platte tekst"
@@ -4327,8 +4327,8 @@ hello,hallo
 "We can't find an email template to delete.","We vinden kunnen het e-mail sjabloon om te verwijderen niet vinden."
 "Edit Template","Template bewerken"
 "Edit System Template","Systeem-sjabloon bewerken"
-"New Template","Nieje sjabloon"
-"New System Template","Nieje systeem-sjabloon"
+"New Template","Nieuw sjabloon"
+"New System Template","Nieuw systeem-sjabloon"
 "Email Templates",E-mailsjablonen
 "Email Preview","Voorvertoning E-mail"
 "An error occurred. The email template can not be opened for preview.","Er is een fout opgetreden. De e-mailtemplate kan niet worden geopend als voorvertoning."
@@ -4491,7 +4491,7 @@ Redeemable,Inwisselbaar
 "Add Gift Card Account","Cadeaubon Account toevoegen"
 "Save & Send Email","Opslaan & Stuur e-mail"
 "Edit Gift Card Account: %1","Cadeaubon bewerken account: %1"
-"New Gift Card Account","Nieje cadeaubon account"
+"New Gift Card Account","Nieuw cadeaubon account"
 Information,Informatie
 "Gift Card Code",Cadeaubon-code
 "Send Gift Card","Cadeaubon versturen"
@@ -4502,7 +4502,7 @@ History,Geschiedenis
 "This gift card account has been deleted.","Cadeaubon account is verwijderd."
 "We couldn't find a gift card account to delete.","We kunnen geen cadeaubon account vinden om te verwijderen."
 "Edit Gift Card Account","Bewerk cadeaubon account"
-"New Account","Nieje account"
+"New Account","Nieuw account"
 "New code pool was generated.","Nieuwe groep van de code is gegenereerd."
 "We were unable to generate a new code pool.","We waren niet in staat om de code te genereren voor een nieuwe groep."
 "Please select a gift card account(s)","Selecteer cadeaubon account(s)"
@@ -4670,7 +4670,7 @@ Registrant,Registreerder
 "You deleted the gift registry type.","Je hebt verwijderd de verlanglijst register type."
 "We couldn't delete this gift registry type.","Wij kunnen dit verlanglijst register type niet verwijderen."
 "Edit Type","Bewerk type"
-"New Type","Nieje type"
+"New Type","Nieuw type"
 "You saved the gift registry type.","Je hebt dit verlanglijst register type opgeslagen."
 "We can't save this gift registry type right now.","Wij kunnen deze verlanglijst register type nu niet opslaan."
 "%1 item(s) have been added to the gift registry.","%1 product(en) heeft je toegevoegd aan het cadeauregister."
@@ -4736,7 +4736,7 @@ Owner,Eigenaar
 "We found an attribute with this static input type already in the gift registry type. Please select a different input type.","We vonden een attribuut dat reeds bestaat in de verlanglijst-type met een statisch invoer type. Selecteer een ander invoer type."
 "Show Region","Toon Regio"
 "Date Format","Formaat datum"
-"Select a shipping address from your address book or enter a new address.","Selecteer een verzendadres vanuit je adresboek of geef een nieje e-mailadres in"
+"Select a shipping address from your address book or enter a new address.","Selecteer een verzendadres vanuit je adresboek of geef een nieuw e-mailadres in"
 "Add All To Gift Registry","Voeg allemaal toe aan verlanglijst"
 "Ship to registrant's address","Verzenden naar het adres van de registreerder"
 "Use the gift registry shipping address","Gebruik verzendadres van de verlanglijst"
@@ -4939,7 +4939,7 @@ Import/Export,Importeren/Exporteren
 "Import successfully done","Importeren succesvol afgerond"
 "Sorry, but the data is invalid or the file is not uploaded.","De gegevens zijn ongeldig of het bestand is niet geüpload."
 "The file was not uploaded.","Het bestand is niet geüpload."
-"Data validation failed. Please fix the following errors and upload the file again.","Gegevensvalidatie is mislukt. Gelieve de volgende fouten herstellen en het bestand opnieje te uploaden."
+"Data validation failed. Please fix the following errors and upload the file again.","Gegevensvalidatie is mislukt. Gelieve de volgende fouten herstellen en het bestand opnieuw te uploaden."
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Gecontroleerd rijen: %1, gecontroleerde entiteiten: %2, ongeldige rijen: %3, totaal aantal fouten: %4"
 "This file is empty. Please try another one.","Dit bestand is leeg. Probeer een andere."
 "Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Repareer fouten en her-upload bestanden of druk op ""Importeren"" om de rijen met fouten over te slaan"
@@ -5010,7 +5010,7 @@ User,Gebruiker
 "Indexer Management","indexering management"
 "Update by Schedule","Volgens schema bijwerken"
 "Update on Save","Indexeren bij opslaan"
-"Reindex required","Opnieje indexeren vereist"
+"Reindex required","Opnieuw indexeren vereist"
 Ready,Gereed
 Processing,"Bezig met verwerken"
 "%1 index is locked by another reindex process. Skipping.","%1 indexer is vergrendeld door een ander indexeringsproces. Wordt overgeslagen."
@@ -5060,7 +5060,7 @@ Integrations,Integraties
 "Access Token Secret","Toegang Token geheim"
 "Uninstall the extension to remove this integration","Deinstalleer de extensie om de integratie te verwijderen"
 Activate,Activeer
-Reauthorize,"Opnieje autoriseren"
+Reauthorize,"Opnieuw autoriseren"
 "Integration not secure","Integratie niet veilig"
 "Uninstall the extension to remove integration '%1'.","Deïnstalleer de extensie om de integratie '%1' te verwijderen."
 "This integration no longer exists.","Deze integratie bestaat niet langer."
@@ -5072,9 +5072,9 @@ Reauthorize,"Opnieje autoriseren"
 "Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Waarschuwing! Integraties zonder HTTPS zijn onveilig en kunnen privé of persoonlijk informatie blootstellen"
 "The integration '%1' has been saved.","De integratie '%1' is opgeslagen"
 "The integration was not saved.","De integratie is niet opgeslagen."
-"The integration '%1' has been re-authorized.","De integratie '%1' is opnieje geautoriseerd."
+"The integration '%1' has been re-authorized.","De integratie '%1' is opnieuw geautoriseerd."
 "The integration '%1' has been activated.","Integratie '%1' werd geactiveerd."
-"Integration '%1' has been sent for re-authorization.","Integratie '%1' is opnieje verzonden voor autorisatie."
+"Integration '%1' has been sent for re-authorization.","Integratie '%1' is opnieuw verzonden voor autorisatie."
 "Integration '%1' has been sent for activation.","Integratie '%1' is verstuurd voor activatie."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Er ging iets mis tijdens het verwijderen van rollen en bevoegdheden. Meer informatie in het exceptions logboek."
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Een of meer <a href=""%1""> integraties</a> zijn vanwege een wijziging in de XML-configs gereset."
@@ -5147,7 +5147,7 @@ Invitations,uitnodigingen
 "We discarded %1 of %2 invitations.","We hebben  %1 van %2 uitnodigingen verwijderd."
 "We skipped %1 of the selected invitations.","We hebben %1 van de geselecteerde uitnodigingen overgeslagen."
 "Something went wrong while sending invitations.","Er ging iets mis tijdens het verzenden van uitnodigingen."
-"No invitations have been resent.","Er zijn geen uitnodigingen opnieje verzonden."
+"No invitations have been resent.","Er zijn geen uitnodigingen opnieuw verzonden."
 "You sent %1 of %2 invitation(s).","U hebt  %1 van %2 uitnodiging(en) verzonden ."
 "Something went wrong while sending %1 invitations.","Er ging iets mis tijdens het verzenden van uitnodigingen voor %1."
 "We discarded %1 invitation(s) addressed to current customers.","Wij verwerpen %1 invitatie(s) gericht aan de klanten."
@@ -5287,7 +5287,7 @@ Archive,Archief
 "Mass Update","Massaal bijwerken"
 Move,Verplaats
 "Forgot Password","Wachtwoord vergeten"
-Reorder,"Opnieje bestellen"
+Reorder,"Opnieuw bestellen"
 Print,Afdrukken
 "Reindex Process",Herindexeren
 Clean,Opschonen
@@ -5481,7 +5481,7 @@ Wishlist,Verlanglijst
 "A shipping selection is not applicable.","Verzendselectie is niet van toepassing."
 "Go to Shipping Information","Ga naar verzendgegevens"
 "Update Qty &amp; Addresses","Aantallen en adressen bijwerken"
-"Enter a New Address","Voer een nieje adres in"
+"Enter a New Address","Voer een nieuw adres in"
 "Back to Shopping Cart","Terug naar winkelmand"
 "Go to Review Your Order","Ga naar Valideer je bestelling"
 "Back to Shipping Information","Terug naar verzendinformatie"
@@ -5504,12 +5504,12 @@ Wishlist,Verlanglijst
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Maximaal aantal voor verzending naar meer adressen"
 "Review Order","Controleer bestelling"
 "Select Shipping Method","Kies een verzendmethode"
-"We are unable to process your request. Please, try again later.","We zijn niet in staat om je aanvraag te verwerken. Gelieve opnieje te proberen."
+"We are unable to process your request. Please, try again later.","We zijn niet in staat om je aanvraag te verwerken. Gelieve opnieuw te proberen."
 "Ship to:","Verzenden naar:"
 Error:,Fout:
 "MySQL Message Queue Cleanup","MySQL Message Queue Opschonen"
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Tijden zijn in minuten. Gebruik ""0"" om automatische goedkeuring over te slaan."
-"Retry Messages In Progress After","Berichten Die In Behandeling Zijn Opnieje Proberen Na"
+"Retry Messages In Progress After","Berichten Die In Behandeling Zijn Opnieuw Proberen Na"
 "Successful Messages Lifetime","Levensduur Van Succesvolle Berichten"
 "Failed Messages Lifetime","Onbestelbare berichten levensduur"
 "New Messages Lifetime","Levensduur Van Nieuwe Berichten"
@@ -5549,7 +5549,7 @@ Qty:,Aantal:
 deleted,verwijderd
 "Renderer list for block ""%1"" is not defined","Renderer-lijst voor blok ""%1"" is niet gedefinieerd"
 "This quote is currently locked for editing. It will become available once released by the Merchant.","Deze offerte is momenteel vergrendeld voor bewerking. Het wordt beschikbaar zodra het door de verkoper is vrijgegeven."
-"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Je offerte is verlopen en de productprijzen zijn bijgewerkt volgens de laatste prijzen in je catalogus. Je kunt de offerte opnieje indienen bij de verkoper voor verdere onderhandeling of naar de kassa gaan."
+"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Je offerte is verlopen en de productprijzen zijn bijgewerkt volgens de laatste prijzen in je catalogus. Je kunt de offerte opnieuw indienen bij de verkoper voor verdere onderhandeling of naar de kassa gaan."
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","U bent geen eigenaar van deze offerte. Je kunt het niet bewerken of er iets aan aanpassen."
 "Estimated Tax",BTW
 "Quote Subtotal (Excl. Tax)","Offerte subtotaal (Excl. BTW)"
@@ -5628,7 +5628,7 @@ discount,korting
 "Client reviewed","Klant heeft beoordeeld"
 Submitted,Verzonden
 Declined,Afgewezen
-"Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Catalogusprijzen zijn gewijzigd en mogelijk wilt je de aanbieding opnieje bekijken. Details over de wijzigingen zijn beschikbaar in het historielogboek."
+"Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Catalogusprijzen zijn gewijzigd en mogelijk wilt je de aanbieding opnieuw bekijken. Details over de wijzigingen zijn beschikbaar in het historielogboek."
 "The discount has changed for this quote. Check the History Log for details.","De korting is gewijzigd voor deze offerte. Controleer het geschiedenislogboek voor meer informatie."
 "The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.","De korting voor deze offerte is verwijderd omdat de koper het maximale aantal pogingen heeft bereikt om een korting aan te vragen. Misschien wilt je het voorgestelde orderbedrag bekijken."
 "The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.","De korting voor deze offerte is verwijderd omdat de winkelmandregel is verwijderd. Misschien wilt je het voorgestelde orderbedrag bekijken."
@@ -5640,11 +5640,11 @@ Declined,Afgewezen
 "has been deleted from the catalog. The items quoted list has been updated.","is verwijderd uit de catalogus. De geoffreerde artikelen zijn bijgewerkt."
 "have been deleted from the quote. You may want to review the offer amount.","zijn verwijderd uit de offerte. U wilt wellicht het totaal bedrag van de offerte herzien."
 "have been deleted from the catalog. The items quoted list has been updated.","zijn verwijderd uit de catalogus. De geoffreerde artikelen zijn bijgewerkt."
-"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Catalogus prijzen zijn veranderd. U wilt wellicht de offerte opnieje vesturen. Informatie over de veranderingen zijn beschikbaar in het geschiedenislogboek."
-"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","De korting voor deze offerte is verwijderd omdat je je korting op eerdere bestellingen al hebt gebruikt. Verzend de offerte opnieje naar de verkoper voor verdere onderhandelingen."
-"The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","De korting is niet langer geldig voor deze prijsopgave en de prijzen zijn bijgewerkt. Verzend de offerte opnieje naar de verkoper voor verdere onderhandelingen."
-"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Offertebelastingen zijn herberekend omdat je het verzendadres hebt toegevoegd of gewijzigd. De onderhandelde prijs is niet langer geldig. Verzend de offerte opnieje naar de verkoper."
-"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Je hebt voor deze offerte het verzendadres gewijzigd. Verstuur de offerte opnieje zodat deze kan worden beoordeeld."
+"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Catalogus prijzen zijn veranderd. U wilt wellicht de offerte opnieuw vesturen. Informatie over de veranderingen zijn beschikbaar in het geschiedenislogboek."
+"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","De korting voor deze offerte is verwijderd omdat je je korting op eerdere bestellingen al hebt gebruikt. Verzend de offerte opnieuw naar de verkoper voor verdere onderhandelingen."
+"The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","De korting is niet langer geldig voor deze prijsopgave en de prijzen zijn bijgewerkt. Verzend de offerte opnieuw naar de verkoper voor verdere onderhandelingen."
+"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Offertebelastingen zijn herberekend omdat je het verzendadres hebt toegevoegd of gewijzigd. De onderhandelde prijs is niet langer geldig. Verzend de offerte opnieuw naar de verkoper."
+"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Je hebt voor deze offerte het verzendadres gewijzigd. Verstuur de offerte opnieuw zodat deze kan worden beoordeeld."
 "is no longer available in catalog. It was removed from your quote.","is niet langer beschikbaar in de catalogus. Het is verwijderd uit je offerte."
 "are no longer available in catalog. They were removed from your quote.","zijn niet langer beschikbaar in de catalogus. Ze zijn verwijderd uit je offerte."
 "is no longer available. It was removed from your quote.","is niet langer beschikbaar. Het is verwijderd uit je offerte."
@@ -5751,7 +5751,7 @@ Expires:,Verloopt:
 "Reason: %reason.","Reden: %reason."
 " expires on "," verloopt op "
 " after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.","na die tijd kunt je de items in de offerte niet bestellen. Na de vervaldatum moet je opnieje onderhandelen over de prijs met de verkoper."
+    you’ll have to negotiate the price with the seller again.","na die tijd kunt je de items in de offerte niet bestellen. Na de vervaldatum moet je opnieuw onderhandelen over de prijs met de verkoper."
 "The quote ","De offerte "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date.","na die tijd wordt het gereset naar de standaard-vervaltijd. Als je de levensduur van de offerte wilt verlengen, moet je de vervaldatum bijwerken."
@@ -5800,7 +5800,7 @@ Expires:,Verloopt:
 "File size in MB. Note that this setting can be overridden by the server settings.","Bestandsgrootte in MB. Deze instelling kan worden overschreven door de serverinstellingen."
 "Updated Quote Template (to Buyer)","Bijgewerkte offertesjabloon (aan de koper)"
 "Declined Quote Template (to Buyer)","Afgewezen offertesjabloon (aan de koper)"
-"New Quote Template (to Seller)","Nieje offertesjabloon (aan de verkoper)"
+"New Quote Template (to Seller)","Nieuw offertesjabloon (aan de verkoper)"
 "Updated Quote Template (to Seller)","Bijgewerkte offertesjabloon (aan de verkoper)"
 "Quote Expiration (in 48 hrs)","Offerte vervalt (in 48 uur)"
 "Quote Expiration (in 24 hrs)","Offerte vervalt (in 24 uur)"
@@ -6194,7 +6194,7 @@ Incentive,Incentief
 "PayPal Debit Card Withdrawal from ATM","PayPal Debit Card Opname van ATM"
 "PayPal Protection Bonus","PayPal Beschermings Bonus"
 "Preapproved Payment (BillUser API, either sent or received","Vooraf goedgekeurde betaling (BillUser API, verzonden of ontvangen"
-Reauthorization,"Opnieje autoriseren"
+Reauthorization,"Opnieuw autoriseren"
 Void,"Nietig verklaard"
 "The PayPal certificate file is empty.","Het PayPal-certificaatbestand is leeg."
 "Header (center)","Koptekst (midden)"
@@ -6300,7 +6300,7 @@ Display,Weergave
 "Payments Advanced and Express Checkout","Geavanceerde betalingen en Express Checkout"
 Vendor,Verkoper
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com"
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com, in plaats van je admin gebruikersnaam en wachtwoord hier in te geven. Dit zal je veiligheid vergroten en voorkomt onderbrekingen van de dienst als je je wachtwoord later wilt wijzigen. Als je geen extra gebruiker wilt instellen, kunt je opnieje je handelaars Login hier invoeren."
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com, in plaats van je admin gebruikersnaam en wachtwoord hier in te geven. Dit zal je veiligheid vergroten en voorkomt onderbrekingen van de dienst als je je wachtwoord later wilt wijzigen. Als je geen extra gebruiker wilt instellen, kunt je opnieuw je handelaars Login hier invoeren."
 "Use Proxy","Proxy Gebruiken"
 "Basic Settings - PayPal Payments Advanced","Basisinstellingen - Geavanceerde PayPal betalingen"
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Wij raden aan om deze waarde op ""Debit or Credit Card"" in te stellen per winkelaanzicht."
@@ -6309,7 +6309,7 @@ Vendor,Verkoper
 "URL method for Cancel URL and Return URL","URL methode voor annuleer-URL en retour-URL"
 "Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Koppel je merchant account met een PCI-compliant gateway waardoor klanten kunnen betalen zonder je site te verlaten. (<u>Inclusief Express Checkout</u>)"
 "Payflow Link and Express Checkout","Payflow Link en Express Checkout"
-"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Als je nog geen meerdere gebruikers heeft ingesteld op je account, voer dan opnieje je leverancier/merchant login hier in."
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Als je nog geen meerdere gebruikers heeft ingesteld op je account, voer dan opnieuw je leverancier/merchant login hier in."
 "Enable Payflow Link","Payflow Link inschakelen"
 "Enable Express Checkout","Express Checkout inschakelen"
 "Basic Settings - PayPal Payflow Link","Basisinstellingen - PayPal Payflow Link"
@@ -6509,7 +6509,7 @@ Carts,Winkelmands
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                         <p>We zullen proberen het opnieje te tonen wanneer je zich de volgende keer aanmeldt als Magento Admin.</p>
+                         <p>We zullen proberen het opnieuw te tonen wanneer je zich de volgende keer aanmeldt als Magento Admin.</p>
                          <p>Bekijk onze nieuwste release-opmerkingen voor meer informatie over nieuwe functies
                          <a href=""http://devdocs.magento.com/magento-release-information.html""
                          target=""_ blank"">DevDocs release-informatie</a>.
@@ -6534,7 +6534,7 @@ Coupon,Tegoedbon
 "Cart Price Rule","Winkelmand prijs regels"
 "Promotion rule this reminder will advertise.","Promotie regel die deze herinnering zal adverteren"
 "Repeat Schedule","Herhaal schema"
-"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Geef het aantal dagen in tot de email herinneringsregel opnieje wordt doorgevoerd indien de voorwaarden nog steeds overeenkomen (Vb: Geef ""7, 14"" in om emails te sturen na 7 dagen en 14 dagen later)."
+"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Geef het aantal dagen in tot de email herinneringsregel opnieuw wordt doorgevoerd indien de voorwaarden nog steeds overeenkomen (Vb: Geef ""7, 14"" in om emails te sturen na 7 dagen en 14 dagen later)."
 "Select Rule...","Selecteer regel..."
 "Only customers who have an account for a store view will receive emails related to that store view.","Alleen klanten die een account hebben voor een winkelaanzicht zullen e-mails ontvangen gerelateerd aan dit winkelaanzicht."
 "Default Titles and Description","Standaard Titels en Omschrijving"
@@ -6631,7 +6631,7 @@ Purchases,Aankopen
 "Products Ordered","Bestelde producten"
 "Most Viewed","Meest bekeken"
 "Show Report","Toon rapport"
-"Refresh Statistics","Vernieje Statistieken"
+"Refresh Statistics","Vernieuw Statistieken"
 "Customers Reviews",Klanten-reviews
 "Reviews for %1","Reviews voor %s"
 "Products Reviews",Reviews
@@ -6743,9 +6743,9 @@ Refunds,Terugbetalingen
 "Last Invoice Created Date","Laatste factuur aangemaakt op"
 "Last Credit Memo Created Date","Laatste creditfactuur aangemaakt op"
 "First Invoice Created Date","Eerste factuur aangemaakt op"
-"Refresh Lifetime Statistics","Vernieje Statistieken complete historie"
+"Refresh Lifetime Statistics","Vernieuw Statistieken complete historie"
 "Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Weet je zeker dat je de complete levensduur statistieken nu wilt vernieuwen? Deze bewerking kan het winkelen door je klanten vertragen."
-"Refresh Statistics for the Last Day","Vernieje Statistieken van vandaag"
+"Refresh Statistics for the Last Day","Vernieuw Statistieken van vandaag"
 "Are you sure you want to refresh statistics for the last day?","Weet je zeker dat je de statistieken van afgelopen dag wilt vernieuwen?"
 "My Requisition Lists","Mijn bestellijsten"
 "We can't update your requisition list right now.","We kunnen op dit moment je bestellijst niet bijwerken."
@@ -7017,7 +7017,7 @@ Return,Retourzending
 Returns,Retouren
 "Create Returns","Retouren aanmaken"
 "Select Items","Kies producten"
-"New Return Request","Nieje retourverzoek"
+"New Return Request","Nieuw retourverzoek"
 "Create New RMA for %1 in %2","Nieuwe RMA aanmaken voor %1 in %2"
 "Create New RMA for %1","Nieuwe RMA aanmaken voor %1"
 "Create New RMA","Nieuwe RMA aanmaken"
@@ -7041,7 +7041,7 @@ Split,Deel
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Je hebt ervoor gekozen om de status(sen) van de geselecteerde RMA aanvragen te wijzigen naar ""Gesloten"". Bent je zeker dat je wilt verdergaan?"
 "Return Item Attribute","Attribuut item retourneren"
 "Edit Return Item Attribute ""%1""","Bewerk retournerings artiel attribuut ""%1"""
-"New Return Item Attribute","Nieje retourartikel attribuut"
+"New Return Item Attribute","Nieuw retourartikel attribuut"
 "Submit Returns","Terugzendingen versturen"
 "Add Selected Product(s) to returns","Voeg geselecteerde producten toe aan retour"
 "Product Name","Product naam"
@@ -7071,7 +7071,7 @@ Split,Deel
 "We can't delete the RMA item attribute right now.","Wij kunnen het kenmerk RMA item attribuut nu niet verwijderen."
 "Edit Return Item Attribute","Pas het retour item attribuut aan"
 "Returns Attributes","Retour attributen"
-"New Return Attribute","Nieje retour attribuut"
+"New Return Attribute","Nieuw retour attribuut"
 "You saved the RMA item attribute.","Je hebt het RMA item attribuut opgeslagen."
 "Something went wrong while saving the RMA item attribute.","Er ging iets mis bij het opslaan van het RMA item attribuut."
 "An attribute with the same code already exists.","Er bestaat een attribuut met dezelfde code."
@@ -7184,7 +7184,7 @@ Number,Nummer
 Sub-items,Sub-Items
 "Quantity To Return","Kwantiteit Terug Te Sturen"
 "Remaining Quantity:","Resterend aantal:"
-"New Return for Order %1","Nieje retour voor bestelling %1"
+"New Return for Order %1","Nieuw retour voor bestelling %1"
 "Return Items Information","Informatie Retourproducten"
 "Add Item To Return","Voeg product toe aan de retour aanvraag"
 "Return #","Retourzending #"
@@ -7222,7 +7222,7 @@ Answers,Antwoorden
 "We received your return request. You will be notified when your request is reviewed.","We hebben je retourverzoek ontvangen. U zal op de hoogte worden gebracht als je verzoek wordt gevalideerd."
 "Placed on %created_at","Geplaatst op %created_at"
 "Click Details for more required fields.","Klik op Details voor meer verplichte velden."
-"Create Packages","Nieje pakket aanmaken"
+"Create Packages","Nieuw pakket aanmaken"
 "Add Package","Voeg pakket toe"
 "RMA Settings","RMA instellingen"
 "Enable RMA on Storefront","RMA op Storefront inschakelen"
@@ -7735,7 +7735,7 @@ Operations,Bewerkingen
 "Hide Customer IP","Verberg klant-IP"
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Kies of een het IP van de klant in orders, facturen, verzendingen en creditfacturen wordt weergegeven."
 "Checkout Totals Sort Order","Sorteervolgorde kassa-totalen"
-"Allow Reorder","Opnieje bestellen toestaan"
+"Allow Reorder","Opnieuw bestellen toestaan"
 "Invoice and Packing Slip Design","Factuur- en pakbon-ontwerp"
 "Logo for PDF Print-outs (200x50)","Logo voor PDF afdrukken (200x50)"
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Je standaard logo zal gebruikt worden in PDF en HTML documenten.<br />(jpeg, tiff, png) Indien je pdf afbeelding vervormd is, probeer een groter bestandsformaat van afbeelding te gebruiken."
@@ -8131,8 +8131,8 @@ Synonyms,Synoniemen
 "Linked Products","Gekoppelde producten"
 Pricing,Prijzen
 "Shared Catalogs","Gedeelde catalogussen"
-"The companies have been reassigned.","De bedrijven zijn opnieje toegewezen."
-"Error while reassigning the company.","Fout tijdens het opnieje toewijzen van het bedrijf."
+"The companies have been reassigned.","De bedrijven zijn opnieuw toegewezen."
+"Error while reassigning the company.","Fout tijdens het opnieuw toewijzen van het bedrijf."
 "Discount value cannot be outside the range 0-100","Kortingswaarde mag niet buiten het bereik 0-100 liggen"
 "We found a duplicate website, tier price or quantity.","Dubbele website, staffelprijs, of aantal gevonden."
 "The selected items are being processed. You can continue to work in the meantime.","De geselecteerde items worden verwerkt. Je kunt blijven werken in de tussentijd."
@@ -8216,14 +8216,14 @@ Assigned,Toegewezen
 "Public Catalog Already Exists","Openbare catalogus bestaat al"
 "A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be assigned to the new public shared catalog.","Er bestaat al een openbare gedeelde catalogus. Als je doorgaat, wordt de bestaande openbare gedeelde catalogus geconverteerd naar een aangepaste catalogus. Alle bedrijven die zijn gedefinieerd in de bestaande openbare gedeelde catalogus, worden toegewezen aan de nieuwe openbare gedeelde catalogus."
 "Change Catalog Type?","Catalogustype wijzigen?"
-"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.","Er bestaat al een openbare gedeelde catalogus. Als je doorgaat, wordt de bestaande openbare gedeelde catalogus geconverteerd naar een aangepaste catalogus. Alle bedrijven die zijn gedefinieerd in de bestaande openbare gedeelde catalogus, worden opnieje toegewezen aan de nieuwe openbare gedeelde catalogus."
+"A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.","Er bestaat al een openbare gedeelde catalogus. Als je doorgaat, wordt de bestaande openbare gedeelde catalogus geconverteerd naar een aangepaste catalogus. Alle bedrijven die zijn gedefinieerd in de bestaande openbare gedeelde catalogus, worden opnieuw toegewezen aan de nieuwe openbare gedeelde catalogus."
 "Add Shared Catalog","Gedeelde catalogus toevoegen"
 "This action cannot be undone. Are you sure you want to delete this catalog(s)?","Deze actie kan niet ongedaan worden gemaakt. Weet je zeker dat je wilt verwijderen van deze catalogus?"
 "This discount will be applied to all selected products. The custom price type will be set to 'Discount'.","Deze korting wordt toegepast op alle geselecteerde producten. Het aangepaste prijstype wordt ingesteld op 'Korting'."
 "Set Discount","Korting instellen"
 "This discount will be applied to all selected products. The custom price type will be set to 'Fixed'.","Deze korting wordt toegepast op alle geselecteerde producten. Het aangepaste prijstype wordt ingesteld op 'Vast'."
 "Adjust Fixed Price","Vaste prijs aanpassen"
-"New Price","Nieje prijs"
+"New Price","Nieuw prijs"
 "New Shipment for Order #%1","Nieuwe verzending voor bestelling #%1"
 "Submit Shipment","Verzending inboeken"
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","U probeert enkele producten toe te voegen met een hoeveelheid die niet overeenkomt met de hoeveelheid die werd verzonden."
@@ -8415,7 +8415,7 @@ Yearly,Jaarlijks
 "You saved this %1 update.","Je hebt deze %1 update opgeslagen."
 "Something went wrong while saving the %1.","Er ging iets mis bij het opslaan van de %1."
 "Repository should return instance of %s","Repository moet een instantie van %s retourneren"
-"Can not be rescheduled","Niet opnieje kan worden gepland"
+"Can not be rescheduled","Niet opnieuw kan worden gepland"
 "Delete Update","Update verwijderen"
 "This action is unavailable","Deze actie is niet beschikbaar"
 Calendar,Calender
@@ -8625,7 +8625,7 @@ Logs,Log
 "Refresh Status","Status vernieuwen"
 "Are you sure you want to delete selected item(s)?","Weet je zeker dat je de geselecteerde product(en) wilt verwijderen?"
 "Choose Report Groups","Kies verslag groepen"
-"New Report","Nieje rapport"
+"New Report","Nieuw rapport"
 "Date Generated","Datum gegenereerd"
 "Report Groups",Verslag-groepen
 "Unknown schema type supplied","Onbekend schema type gegeven"
@@ -8704,7 +8704,7 @@ less,minder
 State,Provincie
 "Rate Percent",Percentage
 "Tax Titles","BTW titels"
-"Add New Tax Rate","Nieje BTW-tarief toevoegen"
+"Add New Tax Rate","Nieuw BTW-tarief toevoegen"
 "Delete Rate","Tarief verwijderen"
 "Save Rate","Tarief opslaan"
 "Manage Tax Rules","Beheer BTW-regels"
@@ -8725,7 +8725,7 @@ State,Provincie
 "Grand Total (Excl.Tax)","Eindtotaal (excl. BTW)"
 "Grand Total (Incl.Tax)","Eindtotaal (incl. BTW)"
 "Manage Tax Rates","Beheer BTW-tarieven"
-"New Tax Rate","Nieje BTW-tarief"
+"New Tax Rate","Nieuw BTW-tarief"
 "Tax Zones and Rates","BTW-zones en -tarieven"
 "We can't delete this tax rate right now.","We kunnen dit belastingstarief momenteel niet verwijderen."
 "An error occurred while loading this tax rate.","Er is een fout opgetreden tijdens het laden van het BTW tarief."
@@ -8915,7 +8915,7 @@ Page,Pagina
 "Default welcome msg!",Standaard-welkomstbericht
 "Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2013-heden Magento. Alle rechten voorbehouden."
 "Design Config Grid",Ontwerpconfiguratietabel
-"Rebuild design config grid index","Ontwerpconfigiguratietabel index opnieje maken"
+"Rebuild design config grid index","Ontwerpconfigiguratietabel index opnieuw maken"
 "Admin empty","Admin leeg"
 "Theme Information",Ontwerpinformatie
 "HTML Head","HTML head"
@@ -8954,7 +8954,7 @@ Translations,Vertalingen
 "Translation files",Vertaalbestanden
 "Condition type ""%1"" is not allowed","Voorwaarde type ""%1"" is niet toegestaan"
 "Remove %1","Verwijder %1"
-"Add New %1","Voeg nieje %1 toe"
+"Add New %1","Voeg nieuw %1 toe"
 "New %1","Nieuwe %1"
 "Unsupported bookmark action.","Niet-ondersteunde bladwijzer actie."
 Selected,Geselecteerd
@@ -9061,7 +9061,7 @@ formElements/*[name(.)=../../@formElement]/settings/description
 "Customer Packaging","Verpakking klant"
 Residential,Particulier
 Commercial,Commercieel
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Er is iets fout gegaan. Probeer opnieje of neem contact ons en wij zullen je helpen."
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Er is iets fout gegaan. Probeer opnieuw of neem contact ons en wij zullen je helpen."
 "We can't convert a rate from ""%1-%2"".","We kunnen geen tarief converteren van ""%1-%2""."
 "Cannot retrieve shipping rates","Kan de verzendkosten niet ophalen"
 "Delivery Confirmation",Verzendbevestiging
@@ -9131,9 +9131,9 @@ Roles,Rollen
 "User Roles Information","Rolgegevens gebruiker"
 "User Information",Gebruikergegevens
 "User Info",Gebruikerinfo
-"Please correct the password reset token.","Corrigeer de sleutel van het opnieje in te stellen wachtwoord."
+"Please correct the password reset token.","Corrigeer de sleutel van het opnieuw in te stellen wachtwoord."
 "Please specify the correct account and try again.","Geef de juiste account op en probeer opnieuw."
-"We'll email you a link to reset your password.","We sturen je een link om je wachtwoord opnieje in te stellen."
+"We'll email you a link to reset your password.","We sturen je een link om je wachtwoord opnieuw in te stellen."
 "Please correct this email address:","Corrigeer het e-mailadres:"
 "Please enter an email address.","Voer een emailadres in."
 "Locked Users","Vergrendelde gebruikers"
@@ -9167,15 +9167,15 @@ username,gebruikersnaam
 "It's time to <a href=""%1"">change your password</a>.","Het is tijd om je <a href=""%1"">wachtwoord te wijzigen</a>."
 "Your password has expired; please contact your administrator.","Je wachtwoord is verlopen, neem contact op met de beheerder."
 "Password Help","Wachtwoord Hulp"
-"Enter your email address.  You will receive an email with a link to reset your password.","Voer je e-mailadres in. U zal een link ontvangen om je wachtwoord te opnieje in te stellen."
+"Enter your email address.  You will receive an email with a link to reset your password.","Voer je e-mailadres in. U zal een link ontvangen om je wachtwoord te opnieuw in te stellen."
 "Email address",E-mailadres
 "Retrieve Password","Wachtwoord opvragen"
 "Back to Sign in","Terug naar inloggen"
 "Forgot your password?","Wachtwoord vergeten?"
-"Reset a Password","Wachtwoord opnieje instellen"
+"Reset a Password","Wachtwoord opnieuw instellen"
 "Roles Resources","Rollen bronnen"
 "Password Reset Confirmation for %name","Wachtwoord reset bevestiging voor %name"
-"If you requested this change, reset your password here:","Indien je deze wijziging heeft aangevraagd, stel je wachtoord hier opnieje in:"
+"If you requested this change, reset your password here:","Indien je deze wijziging heeft aangevraagd, stel je wachtoord hier opnieuw in:"
 "New %changes for %user_name","Nieuwe %changes voor %user_name"
 "Hello,","Hallo,"
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: %changes."
@@ -9489,7 +9489,7 @@ Choose...,Kies...
 "Widget Type","Widget type"
 "Manage Widget Instances","Beheer eigenschappen widget"
 "Add Widget","Widget toevoegen"
-"New Widget Instance","Nieje widget"
+"New Widget Instance","Nieuw widget"
 "Custom Layouts","Custom lay-out"
 "Page Layouts",Pagina-indelingen
 "Please Select Container First","Selecteer eerst een container"
@@ -9685,4 +9685,4 @@ Translate,Vertaal
 "Insert Variable","Variabele invoegen"
 "The widget %1 is no longer available. Select a different widget.","De widget %1 is niet meer beschikbaar. Selecteer een andere widget."
 "First character must be letter.","Eerste teken moet een letter zijn."
-"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord mag niet hetzelfde zijn als het e-mailadres. Maak een nieje wachtwoord aan en probeer het opnieuw."
+"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord mag niet hetzelfde zijn als het e-mailadres. Maak een nieuw wachtwoord aan en probeer het opnieuw."
