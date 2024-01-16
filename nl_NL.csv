@@ -1210,7 +1210,7 @@ or,of
 "* Required Fields","* Verplichte velden"
 "Card Verification Number Visual Reference","Visuele referentie Kaartverificatienummer"
 "Make Default","Maak standaard"
-"Billing Address",Factuuradres
+"Billing Address",Contactgegevens
 Company,Bedrijf
 Address,Adres
 State/Province,Staat/Provincie
@@ -2383,7 +2383,7 @@ Checkout,Afrekenen
 "Page not found.","Pagina niet gevonden."
 "Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van je bestelling. Probeer het later nog eens."
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 breidt \Magento\Checkout\CustomerData\ItemInterface niet uit"
-"Payment Method",Betaalmethode
+"Payment Method",Betaling
 "Payment Page",Betaalpagina
 "We found an invalid request for adding product to quote.","We vonden een ongeldige aanvraag om het product toe te voegen aan de offerte."
 "The product does not exist.","Het artikel bestaat niet"
@@ -2432,10 +2432,10 @@ Reason,Activiteit
 "Checkout Type",Kassa-Type
 Customer:,Klant:
 Total:,Totaal:
-"Billing Address:",Factuuradres:
+"Billing Address:",Contactgegevens:
 "Shipping Address:",Bezorgadres:
-"Shipping Method:",Verzendmethode:
-"Payment Method:",Betaalmethode:
+"Shipping Method:",Verzending:
+"Payment Method:",Betaling:
 "Date & Time:","Datum & Tijd:"
 "Sign In",Inloggen
 "Email Address","E-mail adres"
@@ -5718,7 +5718,7 @@ Negotiation,Onderhandeling
 (Added),(Toegevoegd)
 "Shipping address",Verzendadres
 "Proposed shipping price","Voorgestelde verzendkosten"
-"Shipping method",Verzendmethode
+"Shipping method",Verzending
 removed,verwijderd
 " - removed"," - verwijderd"
 "Request a Quote","Vraag een offerte aan"
@@ -7488,7 +7488,7 @@ Unassign,Loskoppelen
 "We could not add a product to cart by the ID ""%1"".","We kunnen het product niet het toevoegen aan winkelmand met de ID ""%1""."
 "There is an error in one of the option rows.","Er is een fout opgetreden in één van de optierijen."
 "Shipping Address: ","Afleveradres: "
-"Billing Address: ","Factuuradres: "
+"Billing Address: ","Contactgegevens: "
 "Please specify order items.","Geef producten voor de bestelling op."
 "This payment method is not available.","Deze betaalwijze is niet beschikbaar."
 "Validation is failed.","Validatie is mislukt."
@@ -7707,8 +7707,8 @@ Complete,Voltooid
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt <a href=""%account_url"">inloggen op je account</a> om de status van je bestelling te controleren."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen heeft over je bestelling kunt je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id"
-"Billing Info",Factuuradres
-"Shipping Info","Versend info"
+"Billing Info",Contactgegevens
+"Shipping Info","Afleveradres"
 "Update to your %store_name credit memo","Update van je %store_name creditfactuur"
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Je bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>."
 "Invoice for your %store_name order","Factuur voor je %store_name bestelling"
@@ -9630,7 +9630,7 @@ Worldpay,WorldPay
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op je account</a>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen heeft over je bestelling kunt je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>."
 "Shipping Info",Verzendinformatie
-"Shipping Method",Verzendmethode
+"Shipping Method",Verzending
 "Account Dashboard","Account overzicht"
 "Account Information",Accountinformatie
 "About Us","Over ons"
