@@ -2193,8 +2193,8 @@ End,Einde
 "Unable to remove Stock Status for product %1","Kan Stock Status niet verwijderen voor product %1"
 "The fewest you may purchase is %1.","Het minimale dat je kunt bestellen is %1."
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten."
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals je gevraagd heeft, maar we zullen de resterende %2 naleveren."
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals je gevraagd heeft, maar we zullen de resterende %2 naleveren."
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals je gevraagd hebt, maar we zullen de resterende %2 naleveren."
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals je gevraagd hebt, maar we zullen de resterende %2 naleveren."
 "You can buy %1 only in quantities of %2 at a time.","Je kunt %1 alleen in hoeveelheden van %2 kopen in één keer."
 "You can buy this product only in quantities of %1 at a time.","Je kunt dit product enkel in veelvouden van %1 kopen."
 "Stock Status",Voorraadstatus
@@ -2866,7 +2866,7 @@ Contacts,Contacten
     but they will not be able to place orders.","Je bedrijfsaccount <strong>%company_name</strong> is geblokkeerd.
      Je bedrijfsleden kunnen de website blijven gebruiken,
      maar ze zullen geen bestellingen meer kunnen plaatsen."
-"If you have any questions, please contact the seller.","Wanneer je vragen heeft, kun je contact opnemen met de verkoper."
+"If you have any questions, please contact the seller.","Wanneer je vragen hebt, kun je contact opnemen met de verkoper."
 "Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Je zakelijk account <strong>%company_name</strong> is opgeschort, in afwachting van goedkeuring van de verkoper."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Je bedrijfsregistratie aanvraag (voor <strong>%company_name</strong>) is afgewezen
@@ -3006,7 +3006,7 @@ Reverted,Terugstellen
 "Invoice created for %1","Offerte aangemaakt voor %1"
 "The selected credit currency is not valid.
                         Customers will not be able to place orders until you update the credit currency.","De geselecteerde kredietvaluta is niet geldig.
-                         Klanten kunnen geen bestellingen plaatsen totdat je de kredietvaluta heeft bijgewerkt."
+                         Klanten kunnen geen bestellingen plaatsen totdat je de kredietvaluta hebt bijgewerkt."
 "Store Credit",Winkeltegoed
 "Refund to Company Credit","Terugstorten naar bedrijfskrediet"
 "We refunded %1 online.","We hebben %1 online terugbetaald."
@@ -3038,7 +3038,7 @@ Reverted,Terugstellen
 "The history of your credit operations is available on the Company Credit page.","De geschiedenis van je krediet-transacties is beschikbaar op de pagina Bedrijfskrediet."
 "%company_name account reimbursed","%company_name account terugbetaald"
 "Your company credit account has been reimbursed by %reimbursed_amount.","Het bedrijfskrediet is terugbetaald met %reimbursed_amount."
-"If you have any questions, please contact the seller.","Wanneer je vragen heeft kun je kont opnemen met de verkoper."
+"If you have any questions, please contact the seller.","Wanneer je vragen hebt, neem contact op met de verkoper."
 "%company_name credit limit updated","%company_name kredietlimiet bijgewerkt"
 "Your credit limit has been updated and is now %available_credit.
     Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Je kredietlimiet is bijgewerkt en is nu %available_credit.
@@ -3118,7 +3118,7 @@ Add,Toevoegen
 "Specify a fully qualified URL.","Geef een volledig gekwalificeerde URL op."
 "Selected allowed currency ""%1"" is not available in installed currencies.","Geselecteerde toegestane waarde ""%1"" is niet beschikbaar in geïnstalleerde waardens."
 "Default display currency ""%1"" is not available in allowed currencies.","Standaard-valuta ""%1"" is niet beschikbaar in toegestane valuta."
-"Sorry, we haven't installed the base currency you selected.","We hebben de basisvaluta niet geïnstalleerd die je geselecteerd heeft."
+"Sorry, we haven't installed the base currency you selected.","We hebben de basisvaluta niet geïnstalleerd die je geselecteerd hebt."
 "Sorry, we haven't installed the default display currency you selected.","Sorry, het is niet gelukt om de standaard valuta welke je hebt geselecteerd in te stellen."
 "Sorry, the default display currency you selected is not available in allowed currencies.","De standaard valuta weergave die je hebt geselecteerd is niet beschikbaar in de toegestane valuta's."
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","De afzender naam ""%1"" is niet geldig. Gebruik alleen zichtbare tekens en spaties."
@@ -3619,7 +3619,7 @@ Password:,Wachtwoord:
 "Reset your %store_name password","Je %store_name wachtwoord resetten"
 "There was recently a request to change the password for your account.","Er is zojuist een aanvraag gedaan om het wachtwoord van je account te wijzigen."
 "If you requested this change, set a new password here:","Indien je deze wijziging hebt aangevraagd, kan je hier een nieuw wachtwoord instellen:"
-"If you did not make this request, you can ignore this email and your password will remain the same.","Indien je deze aanvraag niet heeft ingediend, kan je deze email negeren en je wachtwoord zal ongewijzigd blijven."
+"If you did not make this request, you can ignore this email and your password will remain the same.","Indien je deze aanvraag niet hebt ingediend of niet wenst door te zetten, kan je deze email negeren en je wachtwoord zal ongewijzigd blijven."
 "Your %store_name password has been changed","Je %store_name wachtwoord is veranderd"
 "We have received a request to change the following information associated with your account at %store_name: password.","Wij hebben een verzoek ontvangen om de volgende informatie gekoppeld aan je account op %store_name te wijzigen: wachtwoord."
 "Checkout as a new customer","Afrekenen als een nieuwe klant"
@@ -4355,9 +4355,9 @@ Footer,onderschrift
 "Template Type","Template soort"
 "Logo Image","Logo afbeelding"
 "Logo Image Alt","Alt-tekst logo"
-"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkkel verplicht als je hierboven een afbeelding heeft geupload. Geeft het aantal pixels in, zonder ""px"" toe te voegen."
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkkel verplicht als je hierboven een afbeelding hebt geupload. Geeft het aantal pixels in, zonder ""px"" toe te voegen."
 "Logo Width","Logo breedte"
-"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Enkkel verplicht als je hierboven een afbeelding heeft geupload. Geeft het aantal pixels in, zonder ""px"" toe te voegen."
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Enkkel verplicht als je hierboven een afbeelding hebt geupload. Geeft het aantal pixels in, zonder ""px"" toe te voegen."
 "Logo Height","Logo hoogte"
 "Email template chosen based on theme fallback, when the ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd."
 "Header Template","Koptekst sjabloon"
@@ -4979,7 +4979,7 @@ Import/Export,Importeren/Exporteren
 "This file does not contain any data.","Dit bestand bevat geen gegevens."
 "Begin import of ""%1"" with ""%2"" behavior","Start import van ""%1"" met ""%2"" gedrag"
 "The import was successful.","Het importeren was succesvol."
-"The file you uploaded has no extension.","Het bestand dat je geüpload heeft geen extensie."
+"The file you uploaded has no extension.","Het bestand dat je geüpload hebt geen extensie."
 "The source file moving process failed.","Het verplaatsen van het bron bestand is mislukt."
 "Begin data validation","Start data validate"
 "Import data validation is complete.","Import gegevensvalidatie is voltooid."
@@ -5497,7 +5497,7 @@ Wishlist,Verlanglijst
 "Sorry, no quotes are available for this order right now.","Geen quotes gevonden voor deze bestelling."
 "Continue to Billing Information","Ga verder naar factuurinformatie"
 "Back to Select Addresses","Terug naar adressen selecteren"
-"We can't complete your order because you don't have a payment method set up.","We kunnen je bestelling niet voltooien omdat je geen bestalingsmethode heeft ingesteld."
+"We can't complete your order because you don't have a payment method set up.","We kunnen je bestelling niet voltooien omdat je geen betalingsmethode hebt ingesteld."
 "Multishipping Settings Section","Multishipping instellingen sectie"
 "Multishipping Settings","Multishipping instellingen"
 "Allow Shipping to Multiple Addresses","Verzending naar meer adressen toestaan"
@@ -5855,7 +5855,7 @@ Resume,Doorgaan
 "Edit Newsletter Template","Nieuwsbrief-sjabloon bewerken"
 "New Newsletter Template","Nieuwe nieuwsbrief-sjabloon"
 "Queue Newsletter","Wachtrij nieuwsbrief"
-"We unsubscribed the people you identified.","We hebben de mensen uitgeschreven die je geïdentificeerd heeft."
+"We unsubscribed the people you identified.","We hebben de mensen uitgeschreven die je geïdentificeerd hebt."
 "The problems you identified have been deleted.","De problemen die je vaststelde werden verwijderd."
 "Newsletter Problems Report","Nieuwsbrief probleemrapporten"
 "Newsletter Problem Reports","Nieuwsbrief probleemrapporten"
@@ -6007,7 +6007,7 @@ Instructions,Instructies
 "The payment disallows storing objects.","De betaling verbiedt objecten op te slaan."
 "We cannot retrieve the payment method code.","Kan de code voor betalingswijze niet ophalen."
 "We cannot retrieve the payment information object instance.","Kan het objectexemplaar betalingsinformatie niet ophalen."
-"You can't use the payment type you selected to make payments to the billing country.","Je kunt het betalingstype dat je geselecteerd heeft om te betalen niet gebruiken voor het land van je factuuradres."
+"You can't use the payment type you selected to make payments to the billing country.","Je kunt het betalingstype dat je geselecteerd hebt om te betalen niet gebruiken voor het land van je factuuradres."
 "The order action is not available.","De bestel actie is niet beschikbaar."
 "The authorize action is not available.","De autorisatie actie is niet beschikbaar."
 "The capture action is not available.","De vastleggen actie is niet beschikbaar."
@@ -6102,7 +6102,7 @@ Auto,Automatisch
 "A reversal has occurred on this transaction due to a chargeback by your customer.","De transactie werd teruggedraaid wegens een chargeback door je klant."
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","De transactie werd teruggedraaid wegens het activeren van de geld-terug garantie door je klant."
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","De transactie werd teruggedraaid als gevolg van een klacht omtrent de transactie vanwege je klant."
-"A reversal has occurred on this transaction because you have given the customer a refund.","De transactie werd teruggedraaid aangezien je de klant heeft terugbetaald."
+"A reversal has occurred on this transaction because you have given the customer a refund.","De transactie werd teruggedraaid aangezien je de klant hebt terugbetaald."
 "Transaction reversal due to fraud detected by PayPal administrators.","De transactie is teruggedraaid als gevolg van fraude ontdekt door PayPal beheerders."
 "Transaction reversal by PayPal administrators.","Transactie teruggedraaid door PayPal beheerders."
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","De transactie werd teruggedraaid vanwege een geschil van de klant omtrent een niet-geautoriseerde actie."
@@ -6309,7 +6309,7 @@ Vendor,Verkoper
 "URL method for Cancel URL and Return URL","URL methode voor annuleer-URL en retour-URL"
 "Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Koppel je merchant account met een PCI-compliant gateway waardoor klanten kunnen betalen zonder je site te verlaten. (<u>Inclusief Express Checkout</u>)"
 "Payflow Link and Express Checkout","Payflow Link en Express Checkout"
-"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Als je nog geen meerdere gebruikers heeft ingesteld op je account, voer dan opnieuw je leverancier/merchant login hier in."
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Als je nog geen meerdere gebruikers hebt ingesteld op je account, voer dan opnieuw je leverancier/merchant login hier in."
 "Enable Payflow Link","Payflow Link inschakelen"
 "Enable Express Checkout","Express Checkout inschakelen"
 "Basic Settings - PayPal Payflow Link","Basisinstellingen - PayPal Payflow Link"
@@ -6601,7 +6601,7 @@ Sharing,Delen
 "The item was added to wish list %1, store view %2.","Het product is toegevoegd aan Wensenlijst %1, winkelaanzicht %2."
 "If an item is %1 in the wish list and %2 of these conditions match:","Als een item is %1 in de verlanglijst %2 van deze voorwaarden komen overeen:"
 "Condition type is unexpected","Type voorwaarde is niet verwacht"
-"<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Belangrijk</b>: Indien je ""Gebruik automatische generatie"" heeft aangevinkt, deze regel zal niet langer gebruikt worden in automatische email herinneringen voor verlaten winkelkarren"
+"<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Belangrijk</b>: Indien je ""Gebruik automatische generatie"" hebt aangevinkt, deze regel zal niet langer gebruikt worden in automatische email herinneringen voor verlaten winkelkarren"
 "Validate error 1","Valideer fout 1"
 "Validate error 2","Valideer fout 2"
 text,tekst
@@ -7218,7 +7218,7 @@ Answers,Antwoorden
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","U kan de status van je retour bekijken door <a href=""%account_url"">in te loggen op je account</a> of <a href=""%form_url"">door gebruik van je bestelnummer</a>."
 "Your Return #%increment_id - %status_label","Je retour #%increment_id - %status_label"
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","U kan de status bekijken van je retour <a href=""%form_url"">met behulp van je bestelnummer</a>."
-"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Indien je vragen heeft over je retour, contacteer ons dan op <a href=""mailto:%support_email"">%support_email</a>."
+"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Indien je vragen hebt over je retour, contacteer ons dan op <a href=""mailto:%support_email"">%support_email</a>."
 "We received your return request. You will be notified when your request is reviewed.","We hebben je retourverzoek ontvangen. U zal op de hoogte worden gebracht als je verzoek wordt gevalideerd."
 "Placed on %created_at","Geplaatst op %created_at"
 "Click Details for more required fields.","Klik op Details voor meer verplichte velden."
@@ -7705,7 +7705,7 @@ Complete,Voltooid
 "Credit memo for your %store_name order","Creditfactuur voor je %store_name bestelling"
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt <a href=""%account_url"">inloggen op je account</a> om de status van je bestelling te controleren."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen heeft over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen hebt over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
 "or call us at <a href="tel:%store_phone">%store_phone</a>","of bel ons op via <a href="tel:%store_phone">%store_phone</a>."
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id"
 "Billing Info",Contactgegevens
@@ -8477,7 +8477,7 @@ Support,Ondersteuning
 "File does not exist","Bestand bestaat niet"
 "Log Details",Loggegevens
 "An error occurred during mass deletion of data collector backups. Please review log and try again.","Er is een fout opgetreden tijdens massale verwijderin van datacollector back-ups. Controleer het logboek en probeer het opnieuw."
-"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Nadat je je selectie heeft gemaakt, klik op de ""Aanmaken"" knop. Oefen dan even geduld uit tijdens de systeem verslag generatie. Dit kan enkele minuten duren. U zal een melding ontvangen zodra deze stap is voltooid."
+"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Nadat je je selectie hebt gemaakt, klik op de ""Aanmaken"" knop. Oefen dan even geduld uit tijdens de systeem verslag generatie. Dit kan enkele minuten duren. U zal een melding ontvangen zodra deze stap is voltooid."
 "Create System Report","Systeem rapport maken"
 "Unable to find a system report to delete.","Kan geen systeemverslag vinden om te verwijderen."
 "The system report has been deleted.","Het systeemverslag werd verwijderd."
@@ -9629,7 +9629,7 @@ Worldpay,WorldPay
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Klantenservice</a>"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Openingstijden:<br /><span class=""no-link"">%store_hours</span>."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op je account</a>."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen heeft over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen hebt over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>."
 "Shipping Info",Verzendinformatie
 "Shipping Method",Verzending
 "Account Dashboard","Account overzicht"
