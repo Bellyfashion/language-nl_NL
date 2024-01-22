@@ -1021,7 +1021,7 @@ Position,Positie
 "Cart price rules allows you to setup promotions for items that are in the shopping cart.","Winkelmand prijsregels maakt het mogelijk promoties in te stellen voor artikelen die in het winkelmandtje zitten."
 "Add Cart Price Rules","Prijsregels voor winkelmand toevoegen"
 "Related Catalog Price Rule","Gerelateerde catalogus prijsregel"
-"Catalog price rules allows you to setup promotions for an items in catalog.","Met catalogusprijsregels kunt je promoties instellen voor artikelen in de catalogus."
+"Catalog price rules allows you to setup promotions for an items in catalog.","Met catalogusprijsregels kun je promoties instellen voor artikelen in de catalogus."
 "Add Selected","Geselecteerde toevoegen"
 "Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Zorg ervoor dat dynamische blokken rotator niet verwijst naar het dynamische blok zelf."
 "Cart Price Rule Related","Winkelmand prijsregel gerelateerd"
@@ -1741,7 +1741,7 @@ message,bericht
 "Cross-Sell Products","Cross-sell producten"
 "Schedule Update From","Plan Update van"
 "Product in Websites","Product in websites"
-"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Als je Magento installatie meerdere website heeft, dan kunt je het bereik aanpassen om producten op specifieke websites te gebruiken."
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Als je Magento installatie meerdere website heeft, dan kun je het bereik aanpassen om producten op specifieke websites te gebruiken."
 name,naam
 "Copy Data from","Kopieer gegevens van"
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Als er geen aangepaste bovenliggende categorieën zijn, gebruik dan de standaard bovenliggende categorie. Je kunt de categorie op elk moment wijzigen in <a href=""%1"" target=""_blank"">Producten > Categorieën</a>."
@@ -2451,7 +2451,7 @@ Login,"Log in"
 "Options Details","Optie Details"
 "Cart Subtotal","Winkelmand subtotaal"
 "No Payment method available.","Geen betaalmethode beschikbaar."
-"You can track your order status by creating an account.","Door het aanmaken van een account, kunt je de status van je bestelling bijhouden."
+"You can track your order status by creating an account.","Door het aanmaken van een account, kun je de status van je bestelling bijhouden."
 "Place Order","Nu bestellen en betalen"
 "Forgot an Item?","Iets vergeten?"
 "Edit Your Cart","Ga terug naar je winkelmand"
@@ -2464,7 +2464,7 @@ edit,bewerken
 " is required."," is verplicht."
 "Provided Zip/Postal Code seems to be invalid.","Opgegeven postcode lijkt ongeldig."
 " Example: "," Voorbeeld: "
-"If you believe it is the right one you can ignore this notice.","Als je denkt dat het de juiste is, kunt je deze mededeling negeren."
+"If you believe it is the right one you can ignore this notice.","Als je denkt dat het de juiste is, kun je deze mededeling negeren."
 "New Address","Nieuw Adres"
 "Are you sure you would like to remove this item from the shopping cart?","Weet je zeker dat je dit product wilt verwijderen uit de winkelmand?"
 "Review & Payments","Overzicht & betalen"
@@ -2710,7 +2710,7 @@ Duplicated,Gedupliceerd
 "You are not allowed to do this.","U bent niet bevoegd om dit te doen."
 "Cannot create the customer.","Kan de klant niet aanmaken."
 "The customer was successfully created.","De klant is succesvol aangemaakt."
-"You cannot delete yourself.","Je kunt uzelf niet verwijderen."
+"You cannot delete yourself.","Je kunt jezelf niet verwijderen."
 "Cannot delete this user.","Kan deze gebruiker niet verwijderen."
 "The customer was successfully deleted.","De klant was succesvol verwijderd."
 "The customer was successfully updated.","De klant was succesvol bijgewerkt."
@@ -2750,7 +2750,7 @@ Blocked,Geblokkeerd
 "Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Kan ""toestaan"" niet instellen voor de resource omdat de bovenliggende resource(s) is ingesteld op ""weigeren""."
 "Invalid login or password.","Ongeldige gebruikersnaam en/of wachtwoord."
 "This account is locked.","Dit account is geblokkeerd."
-"Your account is not yet approved. If you have questions, please contact the seller.","Je account is nog niet goedgekeurd. Wanneer je vragen hebt kunt je contact op nemen met de verkoper."
+"Your account is not yet approved. If you have questions, please contact the seller.","Je account is nog niet goedgekeurd. Wanneer je vragen hebt kun je contact op nemen met de verkoper."
 "There was an error saving custom attributes.","Er is een fout opgetreden bij het opslaan van handmatige attributen."
 "Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""% value"" opgegeven voor het %fieldName veld."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is verplicht. Voer in en probeer het nogmaals."
@@ -2837,7 +2837,7 @@ Contacts,Contacten
 "Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Je account is nu actief. U kan het gebruiken om in te loggen op de <a href=""%customer_url"">website</a>."
 "Your account is no longer active. You will not be able to use it for login.","Je account is niet langer actief. U kan het niet meer gebruiken om in te loggen."
 "If this is a mistake, please contact the seller.","Als dit een vergissing is neem dan contact op met de verkoper."
-"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Je account is ingesteld op inactief en je hebt nu geen toegang tot het zakelijk account. Als je denkt dat dit een vergissing is kunt je voor meer informatie contact opnemen met je vertegenwoordiger."
+"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Je account is ingesteld op inactief en je hebt nu geen toegang tot het zakelijk account. Als je denkt dat dit een vergissing is kun je voor meer informatie contact opnemen met je vertegenwoordiger."
 "A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Een bedrijfsregistratie aanvraag is ingediend door klant %customer. Het account is tijdelijk vergrendeld totdat je dit bedrijf goedkeurt of afwijst."
 "Company: %company","Bedrijfsnaam: %company"
 "Your company registration request (for the <strong>%company_name</strong>)
@@ -2854,11 +2854,11 @@ Contacts,Contacten
     Once you login, you will be able to place orders on behalf of your company
     and use other B2B features.","De status van je bedrijf <strong>%company_name</strong>
      is nu <strong>Actief</strong>.
-     Zodra je bent ingelogd kunt je bestellingen plaatsen namens je bedrijf
+     Zodra je bent ingelogd kun je bestellingen plaatsen namens je bedrijf
      en gebruik maken van andere B2B-functies."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Je accounttype is gewijzigd van Bedrijfsbeheerder naar een gewoon gebruikersaccount. Neem voor meer informatie contact op met je manager als je denkt dat dit een fout is."
 "You have been assigned to %company_name as the Sales Representative.","U bent toegewezen aan %company_name als de verkoopvertegenwoordiger."
-"When you sign in to your account, you will be able to:","Wanneer je inlogt op je account kunt u:"
+"When you sign in to your account, you will be able to:","Wanneer je inlogt op je account kun je:"
 "* View and manage company quotes in Admin Panel","* Bekijk en beheer offertes van bedrijven in Admin Panel"
 "* View and edit company profile in Admin Panel","* Bekijk en bewerk bedrijfsprofiel in Admin Panel"
 "Your company account <strong>%company_name</strong> has been blocked.
@@ -2866,7 +2866,7 @@ Contacts,Contacten
     but they will not be able to place orders.","Je bedrijfsaccount <strong>%company_name</strong> is geblokkeerd.
      Je bedrijfsleden kunnen de website blijven gebruiken,
      maar ze zullen geen bestellingen meer kunnen plaatsen."
-"If you have any questions, please contact the seller.","Wanneer je vragen heeft, kunt je contact opnemen met de verkoper."
+"If you have any questions, please contact the seller.","Wanneer je vragen heeft, kun je contact opnemen met de verkoper."
 "Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Je zakelijk account <strong>%company_name</strong> is opgeschort, in afwachting van goedkeuring van de verkoper."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Je bedrijfsregistratie aanvraag (voor <strong>%company_name</strong>) is afgewezen
@@ -3038,7 +3038,7 @@ Reverted,Terugstellen
 "The history of your credit operations is available on the Company Credit page.","De geschiedenis van je krediet-transacties is beschikbaar op de pagina Bedrijfskrediet."
 "%company_name account reimbursed","%company_name account terugbetaald"
 "Your company credit account has been reimbursed by %reimbursed_amount.","Het bedrijfskrediet is terugbetaald met %reimbursed_amount."
-"If you have any questions, please contact the seller.","Wanneer je vragen heeft kunt je kont opnemen met de verkoper."
+"If you have any questions, please contact the seller.","Wanneer je vragen heeft kun je kont opnemen met de verkoper."
 "%company_name credit limit updated","%company_name kredietlimiet bijgewerkt"
 "Your credit limit has been updated and is now %available_credit.
     Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Je kredietlimiet is bijgewerkt en is nu %available_credit.
@@ -3427,7 +3427,7 @@ Unlock,Deblokkeer
 "This email does not require confirmation.","Deze e-mail hoeft niet bevestigt te worden"
 "Wrong email.","Onjuist e-mailadres."
 "Your password reset link has expired.","Je wachtwoord-reset-link is verlopen"
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als je zeker weet dat het je e-mailadres is, <a href=""%1"">kunt je een nieuw wachtwoord aanvragen</a>."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Er is al een account met dit e-mailadres. Als je zeker weet dat het je e-mailadres is, <a href=""%1"">kun je een nieuw wachtwoord aanvragen</a>."
 "We can't save the customer.","We kunnen de klant niet opslaan."
 "Please make sure your passwords match.","Zorg dat de wachtwoorden overeenkomen."
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Als je een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om je verzendadres in te voeren voor een juiste BTW-berekening."
@@ -3725,7 +3725,7 @@ Group,Groep
 "Account Lock",Account-blokkade
 "Last Activity","Laatste activiteit"
 "Customer Information",Klantgegevens
-"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Als je Magento installatie meerdere websites heeft, dan kunt je de scope aanpassen om een klant te associëren met een specifieke website."
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Als je Magento installatie meerdere websites heeft, dan kun je de scope aanpassen om een klant te associëren met een specifieke website."
 "Disable Automatic Group Change Based on VAT ID","Automatische verandering van groep a.h.v. BTW-nummer uitschakelen"
 "Send Welcome Email From","Verzend welkom e-mail vanuit"
 Addresses,Adressen
@@ -5751,7 +5751,7 @@ Expires:,Verloopt:
 "Reason: %reason.","Reden: %reason."
 " expires on "," verloopt op "
 " after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.","na die tijd kunt je de items in de offerte niet bestellen. Na de vervaldatum moet je opnieuw onderhandelen over de prijs met de verkoper."
+    you’ll have to negotiate the price with the seller again.","na die tijd kun je de items in de offerte niet bestellen. Na de vervaldatum moet je opnieuw onderhandelen over de prijs met de verkoper."
 "The quote ","De offerte "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date.","na die tijd wordt het gereset naar de standaard-vervaltijd. Als je de levensduur van de offerte wilt verlengen, moet je de vervaldatum bijwerken."
@@ -6300,7 +6300,7 @@ Display,Weergave
 "Payments Advanced and Express Checkout","Geavanceerde betalingen en Express Checkout"
 Vendor,Verkoper
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com"
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com, in plaats van je admin gebruikersnaam en wachtwoord hier in te geven. Dit zal je veiligheid vergroten en voorkomt onderbrekingen van de dienst als je je wachtwoord later wilt wijzigen. Als je geen extra gebruiker wilt instellen, kunt je opnieuw je handelaars Login hier invoeren."
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal raadt aan dat je een extra gebruiker instelt op je account op manager.paypal.com, in plaats van je admin gebruikersnaam en wachtwoord hier in te geven. Dit zal je veiligheid vergroten en voorkomt onderbrekingen van de dienst als je je wachtwoord later wilt wijzigen. Als je geen extra gebruiker wilt instellen, kun je opnieuw je handelaars Login hier invoeren."
 "Use Proxy","Proxy Gebruiken"
 "Basic Settings - PayPal Payments Advanced","Basisinstellingen - Geavanceerde PayPal betalingen"
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Wij raden aan om deze waarde op ""Debit or Credit Card"" in te stellen per winkelaanzicht."
@@ -7705,7 +7705,7 @@ Complete,Voltooid
 "Credit memo for your %store_name order","Creditfactuur voor je %store_name bestelling"
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt <a href=""%account_url"">inloggen op je account</a> om de status van je bestelling te controleren."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen heeft over je bestelling kunt je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen heeft over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id"
 "Billing Info",Contactgegevens
 "Shipping Info","Afleveradres"
@@ -7721,7 +7721,7 @@ Complete,Voltooid
 "Once your package ships we will send an email with a link to track your order.","Zodra je pakket verstuurd is sturen we een email met een link om je bestelling te volgen."
 "Update to your %store_name order","Update van je %store_name bestelling"
 "Your %store_name order has shipped","Je %store_name bestelling is verzonden"
-"Your shipping confirmation is below. Thank you again for your business.","Hieronder kunt je je verzendbevestiging vinden."
+"Your shipping confirmation is below. Thank you again for your business.","Hieronder kun je je verzendbevestiging vinden."
 "Your Shipment #%shipment_id for Order #%order_id","Je verzending #%shipment_id voor bestelling #%order_id"
 "Update to your %store_name shipment","Update van je %store_name verzending"
 "Gift Options for ","Cadeau opties voor "
@@ -8090,7 +8090,7 @@ Synonyms,Synoniemen
 "Log out all other sessions","Alle andere sessies afmelden"
 "This computer is using IP address %1.","Deze computer maakt gebruik van IP-adres %1."
 "Admin Account Sharing","Beheerdersaccount delen"
-"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Indien ingesteld op Ja, kunt je vanaf meerdere computers dezelfde rekening inloggen. Standaardinstelling No verbetert de beveiliging."
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Indien ingesteld op Ja, kun je vanaf meerdere computers dezelfde rekening inloggen. Standaardinstelling No verbetert de beveiliging."
 "Password Reset Protection Type","Passwoord resetten beveiliging methode"
 "Max Number of Password Reset Requests","Maximaal aantal wachtwoord reset verzoeken"
 "Limit the number of password reset request per hour. Use 0 to disable.","Beperk aantal wachtwoord reset verzoeken per uur. Gebruik 0 om uit te schakelen."
@@ -9628,7 +9628,7 @@ Worldpay,WorldPay
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Klantenservice</a>"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Openingstijden:<br /><span class=""no-link"">%store_hours</span>."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt de status van je bestelling controleren door in te <a href=""%account_url"">loggen op je account</a>."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen heeft over je bestelling kunt je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien je vragen heeft over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>."
 "Shipping Info",Verzendinformatie
 "Shipping Method",Verzending
 "Account Dashboard","Account overzicht"
