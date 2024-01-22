@@ -7706,6 +7706,7 @@ Complete,Voltooid
 "Thank you for your order from %store_name.","Bedankt voor je bestelling bij %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Je kunt <a href=""%account_url"">inloggen op je account</a> om de status van je bestelling te controleren."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien je vragen heeft over je bestelling kun je ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
+"or call us at <a href="tel:%store_phone">%store_phone</a>","of bel ons op via <a href="tel:%store_phone">%store_phone</a>."
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Je creditfactuur #%creditmemo_id voor bestelling #%order_id"
 "Billing Info",Contactgegevens
 "Shipping Info","Afleveradres"
